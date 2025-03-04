@@ -1,5 +1,6 @@
 @font-face {
-	font-family: "Verdana"; 
+	font-family: "clacon"; 
+	src: url('../assets/clacon2.woff2') format('woff2');
 }
 
 :root {
@@ -81,4 +82,3 @@ a:hover { box-shadow: inset 0 -5px #a6e3ce; }
 		margin: 0.5rem 1.5rem 0.5rem 3.5rem;
 	}
 }
-

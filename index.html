@@ -1,24 +1,303 @@
+<!--  
+           .      =@=                                        
+  :-*%@@#-..        .+*.                  ...                
+         ..+%*:.       :*.              .-##-                
+              .=#-.      -=.           :*. .*       ..::--.  
+                .:*+....:-=#:.       .=-   .*    .=+=.   .#. 
+            .:#@@@@@@@@@@+.#@@+--.   -.    :: -+-.       +-. 
+           -@@@@@*+@@@@@@%@@@@@=-=**-:    .**-.        .+-   
+          =@@@*=-+@@@@@@@@@@@@@*----#:   .=:.         :*.    
+         .@@=+=--%@@@@@@@@@@@@@=-----#. -:.         .+:.     
+         :**=----@@@@@@@@@@@@@*--*=--+.=.         :-...*.    
+        ==#------*@@@@@@@@@@%-*=.----*-   =#=.        #-     
+      .==*--------+@@@@@@@+=*...*----*::*--*-*.=+...==       
+      -=+---------------=+:.++=---+@%=----=+*:   .#:         
+     .**=-------------=*-*=-----*@@#-------*#=..-+--++.      
+     -*%------------=*=------=#@@@@%----=++.  .:+-----*      
+     =*#----------++------=#@@@@@@@@@*=#@%+=. .+==---=:      
+     .#%-------+*=----=*%@@@@@@@@@@@@@@@@%-=+   .-*-=*.      
+      :#=--+#+=*#*#@@@@@@@@@@@@@@@@@@@@@@=--@#.   .--.       
+       .::.. .==----+=*%@@@@@@@@@@@@@@@%---=@@%. ..          
+           .#=#+=---+.      ...-#@@@@*=----#@@@-             
+           :  .*---#*:        .##--------=@@@@@:             
+           =..++---#-.        .@@@@%##%@@@@@@@%.             
+            =++==*#*.        .+=@@@@@@@@@@@@@+=:             
+                             +=--=#@@@@@@@%+--=.             
+                             :%--------------=+.             
+                            .%@@#=----------#-               
+                            .+@@@@@%#++++#%=.                
+                              *@@@@@@@@@@@-                  
+                             .*-+@@@@@@+..                   
+                            .*=--*#:.                        
+                            +==%:.                           
+
+	Welcome to the source code!
+	Everything between the `<! --` and `-- >` here is a comment;
+	it doesn't get displayed on the final page and is only viewable in the source code.
+
+	You can use comments to write notes for yourself about how bits of code work,
+	remove bits of code you don't want to display now but might want later,
+	or leave hidden messages for those who inspect your source code, like I'm doing here.
+
+-->
+
 <!DOCTYPE html>
 <html lang="en">
 
+<head>
+  <title>Welcome to Website Building 101</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link href="style.css" rel="stylesheet" type="text/css" media="all">
+</head>
+
+<body>
+
+	<main>
+	
+		<h1>Creating a Basic Website</h1>
+				<p>These instructions are a remix of information published originally at<a href="https://ribozone.github.io/artsite/"> Ribozone.github.io</a>
+		<h2>What you need</h2>
+			<ul>
+				<li>A computer with a text editor</li>
+					<ul>
+						<li>The default text editor included with your operating system (Notepad on Windows and TextEdit on Mac) is all you need to make a website, though there are plenty of more complex options. I use <a href="https://coteditor.com/">CotEditor</a>. It's easy to switch between them until you find something you like, so don't worry about picking the "right" one.</li>
+					</ul>
+				<li>Some images files you'd like to put on a website</li>
+					<ul>
+						<li>This one's optional; you can work with placeholder images if you don't have the files ready.</li>
+					</ul>
+			</ul>
+			
+		<h2 id="intro">Introduction</h2>
+			<p>Hi. I have no qualifications, but I have been making websites in various formats since the mid 1990s. Until recently I have been making my websites mostly through Wordpress and various WYSIWYG website editors, but recent changes to the availability of HTML/CSS tools, layout builders and ChatGPT make it too easy to decode and code your own website by hand. Additionally, static websites (websites that don't run code) are much less susceptible to attacks from hackers.</p>
+			
+			<h3>Why make a website by hand?</h3>
+				<h4>Save money by not paying for stuff you don't own</h4>
+					<p>Squarespace, Wix, Cargo, etc are all <strong style="text-transform:uppercase;">too expensive</strong> and you don't even own your site! They "own" their templates, so they prevent you from exporting your site and taking the files somewhere else. Most web hosting is not like that! When you make your site yourself, you can easily upload it to another host when whatever one you're using goes down or makes a policy decision you don't agree with. Squarespace <i>et al.</i> want you to believe that coding your own site is too hard, so you'll keep giving them money. <strong>Stop giving them money!</strong></p>
+				<h4>Enjoy total creative freedom</h4>
+					<p>Your art and design work is unique to you, so why shouldn't your website be? When you build it from scratch, you can make your site have any layout and any style you can dream of. If you wonder "can I make a webpage do this?", usually the answer is I can!</p>
+				<h4>Learn something new (and fun?!)</h4>
+					<p>Learning HTML and CSS is a great way to get more comfortable with code. It's not programming, but for a lot of people it's a first step towards learning to program. Even if you have no interest in coding, it's good to learn a new skill. As a teacher I modify and use HTML code all the time when designing assignments on Schoology.</p>
+					<p>Also, I think it's fun. :)</p>
+					
+			<h3>Some inspiring bespoke websites</h3>
+				<ul>
+					<li>[List to be populated during the workshop]</li>
+				</ul>
+		<h2 id="start">Create a GitHub Account and Repository</h2>
+					<h3>Creating a GitHub Account</h3>
+			            <p><input type="checkbox"> Create a new account on GitHub using your personal email account <strong>DO NOT USE YOUR SCHOOL EMAIL</strong></p>
+			        <h3>Create a repository</h3>
+			            <p><input type="checkbox"> Create a new repository on GitHub that follows the naming convention: <code>githubsername.github.io</code></p>
+			            <p><strong>If you do not name the repository correctly you will need to rename the repository</strong></p>
+							
+		<h2 id="start">Getting started with HTML code</h2>
+			<p>Your website is going to start as files on your computer, then you'll put them online at the end of the workshop. Let's make some files!</p>
+			
+			<h3>Files and folders</h3>
+				<p><input type="checkbox"> <strong>Make a new folder in your Digital Design Folder.</strong> This will become your website! In order to stay organized, name the folder <code>username.github.io</code> so that it matches the name of your GitHub directory. If you're reading a guide online and it mentions the "root" or "root folder" or "top-level directory", this is the folder it's referring to.</p>
+				<p><input type="checkbox"> <strong>Open your text editor, create a new document, and save it as <code>index.html</code>.</strong> This will become the first page people see when they visit your website.</p>
+				<p><input type="checkbox"> <strong>Create another new document, and save it as <code>style.css</code>.</strong> This is where you'll change how <code>index.html</code> (and any other page you make) will look.</p>
+				<p><input type="checkbox"> <strong>Create a new folder within the first one. Put the images you want to share on your site in this folder.</strong> This is optional, but it keeps things organized. The folder can have any name; some popular choices are "img", "assets", etc.</p>
+				<p><small><strong>Note:</strong> <em>Ideally, folder and file names <strong>should never include spaces</strong>. They get rendered as <code>%20</code> in the address bar and I think it looks bad.</small></em></p>
+				
+			<h3>Tools</h3>
+				<p>Before we start <em>writing</em> code, let's <em>read</em> some. Safari (Chrome at school has this funcionality blocked) has tools to view the source code of any web page you visit. When you're on a site that's doing something you like and you're wondering how they did it, check out the code!</p>
+				<h4>Enable Web Developer Tools</h4>
+					<p><input type="checkbox"> <strong>Go to Safari>Settings>Advanced.</strong> Enable Web Developer Tools.</p>
+				
+				<h4>View source: ⌥ ⌘ U (Mac)</h4>
+					<p>Like the name suggests, this will take you straight to the code of the HTML document you're currently viewing, as it was written. It can more or less useful depending on the site you're on. Pages written by hand are typically legible to other human beings, while code generated by a program can be pretty obscure.</p>
+					<p><input type="checkbox"> <strong>View the source of the Google Doodle page.</strong></p>
+					<p><input type="checkbox"> <strong>View the source of this page.</strong> I tried to keep it nice and organized.</p>
+				<h4>Inspect element: ⌥ ⌘ I (Mac)</h4>
+					<p>Even when the source code appears to be nonsense, the inspect tool can clear things up by displaying the page and the code side by side. Hovering over a piece of code (an HTML "element") will highlight the corresponding element on the page, and clicking on an element will show the CSS styling that's being added to it.</p>
+					<p><input type="checkbox"> <strong>Inspect an element on the Google Doodle page.</strong></p>
+					<p><input type="checkbox"> <strong>Inspect an element on this page.</strong></p>
+					<p>What you see here may not make sense to you now, but hopefully will become more clear after the following sections on HTML and CSS. Also, the inspector interface looks different across browsers, so you may need to look up a guide for your specific browser if you're getting lost.</p>
+				<p><small><strong>Note:</strong> <em>You can also access view source and inspect element by right clicking. Another way to access the source code is by typing "<code>view-source:</code>" into the address bar before the "<code>https://</code>" (I've even done this on my phone, when I <b>really</b> wanted to see).</small></em></p>				
+				
+		<h2 id="HTML">HTML = <u>h</u>yper<u>t</u>ext <u>m</u>arkup <u>l</u>anguage</h2>
+			<p>HTML is the structure and content of every webpage. It's made up of "elements", the things you inspected in the last section. Elements are defined by tags, which are enclosed in angled brackets, &lt; and &gt;.</p>
+			<p style="text-align:center;">
+				An HTML element:</br>
+				<code><b>&lt;p&gt;</b>This is a paragraph.<b>&lt;/p&gt;</b></code><br>
+				start tag &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; end tag</br>
+				<!-- Using &nbsp; like this is not the best way to space things out, but sometimes it gets the job done. -->
+			</p>
+			<p>Most elements require both a start and an end tag (which includes a forward slash <code>/</code>). A notable exception is the <code>&lt;img&gt;</code> tag, which can stand alone. Your page may behave in unexpected ways if you forget to close a tag, but it's usually easy to spot and fix.</p>
+			<p>To add things to a page, add an element! This page is mostly made up of headings <code>&lt;h1&gt;–&lt;h6&gt;</code>, paragraphs <code>&lt;p&gt;</code>, and unordered lists <code>&lt;ul&gt;</code>. HTML elements can be nested within other elements, but take care to close the inner element before closing the outer element. For example:</p>
+			<p style="text-align:center;"><code>&lt;p&gt;I &lt;b&gt;love&lt;/b&gt; HTML.&lt;/p&gt;</code> is valid, but</p>
+			<p style="text-align:center;"><code>&lt;p&gt;I &lt;b&gt;love HTML.&lt;/p&gt;&lt;/b&gt;</code> is not.</p>
+			
+			<h3>A minimal webpage</h3>
+				<p><input type="checkbox"> <strong>Copy the following code and paste it into your <code>index.html</code> file.</strong></p>
+<textarea style="width: 800px; height:220px;">
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <title>Andrew Cambron: Pizza Enthusiast</title>
+    <title>My website</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link href="style.css" rel="stylesheet" type="text/css" media="all">
   </head>
   <body>
-  <div class="container">
-  <div class="Header">  
-  <h1>Bongiorno, It's Pizza Time!</h1>
-  </div>
-  <div class="Pizza">    
-  <img src="assets/pizza.jpeg" width="50%">
-  <figcaption>Pizza Delicioso</figcaption>
-  <a href="https://www.grottopizza.com/">Grotto Pizza</a></div>
-	</div>
+    <h1>Welcome to my cool new website</h1>
+  </body>
+</html></textarea>
+				<p><code>&lt;!DOCTYPE html&gt;</code> tells the browser to expect an html document.</p>
+				<p><code>&lt;html&gt;</code> is the container for the entire page. <code>lang="en"</code> specifies that the page is written in English. You should change it to a different <a href="https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes">two letter language code</a> if your site in another language.</p>
+				<p><code>&lt;head&gt;</code> contains the site's metadata. Some sites will have a LOT of metadata, but this is all you need to get started.</p>
+				<p><code>&lt;title&gt;</code> is the text that will display in a browser tab with your site open.</p>
+				<p><input type="checkbox"> <strong>Change the text in the <code>&lt;title&gt;</code> tag to the name of your site.</strong></p>
+				<p><code>&lt;meta charset="UTF-8"&gt;</code> sets the character encoding. UTF-8 covers every <a href="https://en.wikipedia.org/wiki/List_of_Unicode_characters">Unicode character</a>. </p>
+				<p><code>&lt;meta name="viewport" content="width=device-width,initial-scale=1"&gt;</code> makes it so your page doesn't look really tiny on phone screens. You can remove it, but I recommend keeping it in.</p>
+				<p><code>&lt;link href="style.css" rel="stylesheet" type="text/css" media="all"&gt;</code> connects your page to the stylesheet file that you created in the previous section.</p>
+				<p><code>&lt;body&gt;</code> contains everything that actually displays on the page when you view it.</p>
+				<p><code>&lt;h1&gt;</code> is the highest level section heading. On a site's index page, this usually contains the site title, while on other pages, it will contain the name of that page.</p>
+				<p><input type="checkbox"> <strong>Change the text in the <code>&lt;h1&gt;</code> tag to the name of your site.</strong></p>
+				<p><input type="checkbox"> <strong>Save your changes, then open your <code>index.html</code> file in the browser.</strong></p>
 
-</figure>
-    
-      </body>
+			<h3>Important tags</h3>
+				<p>We're here to share art, so arguably the most important tag is the <code>&lt;img&gt;</code> tag. The whole tag will look something like <code>&lt;img src="example.png"&gt;</code>, where the value in the <code>src</code> attribute is the path to the image file you want to display. If the file is in the <em>same folder</em> as the HTML file you're writing, the path is simply the name of the image file. If you set up your site like I recommended earlier, with all of your images in a folder, the file path will <em>include the name of that folder</em> and look something more like <code>&lt;img src="assets/example.png"&gt;</code>.</p>
+				<p><input type="checkbox"> <strong>Add an image (or several) to <code>index.html</code> and view the page.</strong></p>
+				<p>(Optional) If you want to add captions, there's an HTML element for that!</p>
+				<textarea style="width:500px; height:100px;">
+<figure>
+  <img src="assets/example.png">
+  <figcaption>Example caption</figcaption>
+</figure></textarea>
+				<p>Another critically important tag ifs the link, or anchor element:</p>
+				<pre><code>&lt;a href="https://example.com"&gt;Example&lt;/a&gt;</code></pre>
+				<p><code>a</code> stands for anchor and <code>href</code> stands for hyperlink reference, which is the destination of the link. The text between the start and end tags is what will display on the page. There are two types of links:</p>
+				<ul>
+					<li>Relative links are links between files on your own website. To get to a page in the root folder named <code>about.html</code> from the index page, you'd use <code>href="about.html"</code>. If the page is within a folder, for example a folder made up of blog posts, you'd navigate to it with something like <code>href="blog/examplepost.html"</a></code>. If you want to navigate <em>from</em> a page within a folder <em>back out</em> to the index page of the folder that contains it, you'd use <code>"href="../index.html"</code>. More info on <a href="https://www.w3schools.com/html/html_filepaths.asp">relative file paths</a>. </li>
+					<li>Absolute links are links to other websites. For these to work, you have to include the full URL, including the <code>https://</code>.</li>
+				</ul>
+				<p><input type="checkbox"> <strong>Add a link to <code>index.html</code> and test that it works.</strong> Your site doesn't have any other pages yet, so it should be an absolute link.</p>
+				<p>Images, links, headings, and paragraphs are all you really need to build a satisfying portfolio site, but here's a list of <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">every HTML element</a> for your reference.</p>
+			
+		<h2 id="CSS">CSS = <u>c</u>ascading <u>s</u>tyle <u>s</u>heets</h2>
+			<p>CSS changes the appearance of the page. Color, font, size, margins, and more can be changed for every HTML element. A CSS declatarion is formatted like this:</p>
+			<pre><code>selector {
+  property: value;
+}</code></pre>
+<p>where the selector is the HTML element you're adding style to, the property is <em>what</em> you want to change (color, font, size, margins, etc), and the value is <em>how</em> you want to change it (which depends on the property). For example,</p>
+			<pre><code>p {
+  background: black;
+  color: white;
+  font-size: 50px;
+}</code></pre>
+			<p>will change the background color to black, the text color to white, and increase the font size for all of the text within any paragraph tag.</p>
+			<p><input type="checkbox"> <strong>Copy the following code and paste it into your <code>style.css</code> file.</strong></p>
+			<textarea style="width:200px;height:75px;">
+body {
+  color: black;
+  background: white;
+}</textarea>
+			<p><input type="checkbox"> <strong>Change the text and background colors.</strong></p>
+			<p><small><strong>Note:</strong> <em>For color, you can use HEX codes, RGB values, or <a href="https://htmlcolorcodes.com/color-names/">named colors</a>.</small></em></p>
+			<p>There are <a href="https://www.w3schools.com/cssref/index.php">too many CSS properties</a> to list them all here. I've been doing this for a year and a half and I'm still learning new things about CSS all the time. This is the point where using the inspect tool to look at the style of webpages you like becomes very useful for learning about what's possible.</p>
+			
+			<h3>Classes</h3>
+				<p>If you only want to apply a style a specific element, and not every element of the same type, you can assign that specific element a "class" in the HTML. Using an example from the top of this page,</p>
+				<pre><code>&lt;p class="banner"&gt;11AM - 1PM on June 30th at Volume Two&lt;/p&gt;</code></pre>
+				<p style="text-align:center;">is styled with</p>
+				<pre><code>.banner { 
+  font-size: 1.75rem;
+  text-align: center;
+  margin: 2.5rem 1rem;
+  padding: 15px 10px 10px 10px;
+  background-color: blue;
+  color: white;
+}</code></pre>
+				<p>The period specifies that the CSS declaration is meant to be applied to a class. You can name the class whatever you want, as long as there are no spaces. Something short and descriptive works best.</p>
+			
+			<h3>Centering</h3>
+				<p></p>
+			<h3>Units</h3>
+				<p></p>
+			
+		<h2 id="images">Images on the web</h2>
+			<p></p>
+			
+			<h3>Resizing and compression</h3>
+				<p>It's a bad idea to put high-resolution images on your website for two reasons:</p>
+				<ol>
+					<li>You will run out of space on free web hosts very quickly.</li>
+					<li>Your pages will load very slowly.</li>
+				</ol>
+				<p>Even after resizing your images, more can be done to reduce the file size. </p>
+				<ul>
+					<li>Windows: <a href="https://css-ig.net/pinga">pinga</a></li>
+					<li>Mac: <a href="https://imageoptim.com/mac">ImageOptim</a></li>
+					<li>Web-based: <a href="https://tinypng.com/">tinyPNG</a> (free version has a daily limit)</li>
+				</ul>
+				
+			<h3>Alt Text</h3>
+				<p>Alternative, or "alt", text is a written description of an image, which is read aloud by <a href="https://en.wikipedia.org/wiki/Screen_reader">screen readers</a> and displayed on the page if the image cannot load. Alt text is included within the <code>&lt;img&gt;</code> tag, as follows:</p>
+				<textarea style="width: 300px; height:50px;"><img src="example.png" alt="example alt text"></textarea>
+				<p>For decorative images, alt text should be blank. Not <em>absent</em>; include <code>alt=""</code>.</p>
+				<p>For images that used for navigation, the alt text should descibe the link destination instead of what the image looks like.</p>
+				
+			<h3>Responsive webpages</h3>
+				<p>One of the most common reasons a site will appear "broken" is that images are oveflowing their parent element, or even the entire screen (especially on phones). Luckily, there's an easy fix:</p>
+<textarea style="width: 200px; height:75px;">
+img { 
+  max-width: 100%;
+}</textarea>
+
+		<h2 id="galleries">Creating gallery layouts</h2>
+		
+			<h3>Sketching rectangles</h3>
+				<p><input type="checkbox"> <strong>Visit a portfolio site you admire, or one of the sites shared be in the introduction. Open the inpector tool. Add the CSS declatation <code> * { border:solid; }</code> to put a border around every single HTML element.</strong></p>
+				<p><input type="checkbox"> <strong>With a pen and paper, sketch out a layout for your site using only rectangles.</strong></p>
+				
+			<h3>Flexbox and grid</h3>
+				<p><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Guide to Flexbox</a></p>
+				<p><a href="https://grid.layoutit.com/">CSS Grid Generator</a></p>
+			
+		<h2 id="hosting">Putting your site online</h2>
+		
+			<h3>Free web hosts</h3>
+				<h4>Github Pages</h4>
+					<p>This site is hosted on Github Pages!</p>
+					<p>https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits</p>
+									<h4>Neocities</h4>
+					<p>My homepage is hosted on Neocities! It's a unique as a web host, becaue</p>
+					<p>full list of what you get https://neocities.org/supporter</p>
+				<h4>Other options</h4>
+					<p></p>
+					<p><a href="https://kalechips.net/stuff/hosting">Web host list for hobbyists</a></p>
+					
+			<h3>(optional) Getting a custom domain</h3>
+				<p>This part isn't free, unfortunately, but it's less expensive than you might have realized. You can get a .com, .net or a .org domain for about $10-$12 per <strong>year</strong>, less than a single <strong>month</strong> of Squarespace's least expensive plan. (When they offer you one year of free domain registration like it's a great deal, they're ripping you off!)</p>
+				<p>I buy my domains from <a href="https://www.namecheap.com/">Namecheap</a>, and I have no complaints.
+				
+		<h2 id="more">Learning more</h2>
+			<p></p>
+		
+			<h3>"Homework" AKA Things You Might Want to Add to Your Site but I Didn't Have Time to Go Over</h3>
+				<ul>
+					<li>Custom fonts</li>
+					<li>Favicons</li>
+					<li>Robots.txt</li>
+					<li>Giving links <code>:hover</code> and <code>:focus</code> styling</li>
+				</ul>
+				
+			<h3>Resources and Communities</h3>
+				<ul>
+					<li><a href="https://www.w3schools.com/">W3Schools Online Web tutorials</a></li>
+					<li><a href="https://developer.mozilla.org/en-US/docs/Learn">MDN Web Docs</li>
+					<li><a href="https://32bit.cafe/">32-Bit Cafe</a></li>
+					<li>You can ask me for help!</li>
+				</ul>
+
+	</main>
+	
+</body>
+
 </html>
+
+<!-- BYE!!! Have fun and rememeber to send me a link to your website! -->
