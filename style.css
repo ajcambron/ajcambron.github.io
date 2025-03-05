@@ -1,7 +1,4 @@
-@font-face {
-	font-family: "clacon"; 
-	src: url('../assets/clacon2.woff2') format('woff2');
-}
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&family=Inter:wght@100..900&display=swap');
 
 :root {
 	font-size: 18px;
@@ -11,36 +8,86 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
-	scrollbar-color: blue white;
+	scrollbar-color: goldenrod white;
+}
+
+.nav li {
+  float: left;
+}
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: goldenrod;
+}
+
+.nav a {
+ display: block;
+ 	font-family: 'Space Grotesk', sans-serif;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-transform: uppercase; /* Optional for a bold look */
+  letter-spacing: 0.5px; /* Adds a sleek touch */
+  text-decoration: none;
+}
+
+.cv {
+  font-family: 'Inter', sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.cv td, .cv th {
+  bottom-border: 3px dotted goldenrod;
+  padding: 8px;
+}
+
+.cv tr:nth-child(even){background-color: white;}
+
+.cv tr:hover {background-color: goldenrod;}
+
+.cv th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: goldenrod;
+  font-family: 'Inter', sans-serif;
+  color: white;
 }
 
 body { 
-	font-family: monospace;
-	background-color: lavender;
-	background: linear-gradient(140deg,white,lavender);
+	font-family: 'Inter';
+	background-color: moccasin;
+	background: linear-gradient(145deg,white,moccasin);
 	background-attachment: fixed;
-	color: #0E3B43;
+	font-weight: 400;
+    line-height: 1.7;
+	color: black;
 	padding: 4rem 0;
 }
 
 h1, .subtitle, .banner, h2, h3, h4 { 
-	font-family: 'clacon', sans-serif;
-	font-weight: normal;
+	font-family: 'Space Grotesk', sans-serif;
+	font-weight: 600;
 	line-height: 1;
 	letter-spacing: 1px;
+	text-transform: uppercase; /* Optional for a bold look */
+    letter-spacing: 0.5px; /* Adds a sleek touch */
 }
 
-h1 { font-size: 4rem; line-height: 1; margin: 1rem; text-shadow: 5px 5px lavender;  }
+h1 { font-size: 3rem; line-height: 1; margin: 1rem; text-shadow: 5px 5px gainsboro;  }
 .subtitle { font-size: 1.5rem; text-align: right; margin: -1rem 1rem 0.5rem 1rem;  }
-.banner { font-size: 1.75rem; text-align: center; margin: 2.5rem 1rem; padding: 15px 10px 10px 10px; background-color: blue; color: white; }
+.banner { font-family: monospace; font-size: 2.5rem; text-align: center; margin: 2.5rem 1rem; padding: 15px 10px 10px 10px; background-color: goldenrod; color: white; text-shadow: 3px 3px gold;}
 h2 { font-size: 2rem; margin: 0 0.5rem 1rem 1rem; padding-top: 3.5rem; }
 h3 { font-size: 1.5rem; margin: 1.5rem 0.5rem 0.5rem 1.5rem;  }
 h4 { font-size: 1.25rem; margin: 1.5rem 1.5rem 0.5rem 1.5rem; position:relative; padding-left: 90px; }
 h4::before {
 	content:" ";
 	height: 4px;
-	width: 75px;
-	background: blue;
+	width: 40px;
+	background: goldenrod;
 	display: block;
 	position: absolute;
 	top: 35%;
@@ -63,7 +110,7 @@ code, textarea { color: black; background-color: white; font-family: courier, mo
 strong { font-size: 1.15em; }
 
 a { color: blue; text-decoration-style: dotted; text-underline-offset: 0.2rem; }
-a:hover { box-shadow: inset 0 -5px #a6e3ce; }
+a:hover { box-shadow: inset 0 -5px gainsboro; }
 
 .flex {
 	display: flex;

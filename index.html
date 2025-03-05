@@ -40,24 +40,37 @@
 	or leave hidden messages for those who inspect your source code, like I'm doing here.
 
 -->
-
+<!-- Nothing in the head shows up on the website, it just tells the browser how to interpret the HTML -->
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
   <title>Welcome to Website Building 101</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link href="style.css" rel="stylesheet" type="text/css" media="all">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
 </head>
-
+<!-- This is where people start to see what you put here -->
 <body>
 
 	<main>
-	
-		<h1>Creating a Basic Website</h1>
-				<p>These instructions are a remix of information published originally at<a href="https://ribozone.github.io/artsite/"> Ribozone.github.io</a>
-		<h2>What you need</h2>
+	<!-- The picture of my head and site title -->
+  <img src="assets/header.png" width="50%">
+	<!-- My site navigation, it gets styled with the div class "nav" -->
+	<div class="nav">
+<ul>
+  <li><a href="index.html">Creating a Basic Website</a></li>
+  <li><a href="photo.html">Photography</a></li>
+  <li><a href="contact.html">Contact</a></li>
+  <li><a href="about.html">About</a></li>
+</ul>	
+    </div><br>
+    <!-- My page title -->
+    		<h1 >🖥️ Creating a Basic Website</h1>
+				<p>These instructions are a remix of information published originally at<a href="https://ribozone.github.io/artsite/"> Ribozone.github.io</a></p>		
+		<h2>✅ What you need </h2>
 			<ul>
 				<li>A computer with a text editor</li>
 					<ul>
@@ -69,30 +82,72 @@
 					</ul>
 			</ul>
 			
-		<h2 id="intro">Introduction</h2>
-			<p>Hi. I have no qualifications, but I have been making websites in various formats since the mid 1990s. Until recently I have been making my websites mostly through Wordpress and various WYSIWYG website editors, but recent changes to the availability of HTML/CSS tools, layout builders and ChatGPT make it too easy to decode and code your own website by hand. Additionally, static websites (websites that don't run code) are much less susceptible to attacks from hackers.</p>
+		<h2  id="intro">1️⃣ Introduction</h2>
+			<p>Hi. I have no certifications to teach web-design, but I have been making websites in various formats since the mid 1990s.</p>
+			<p> When I was pre-teen we built webpages on <code>Geocities.com</code> and in high school we customized the themes of <code>Myspace.com</code>. I took a class entitled <code>TEL-284 INTRO TO INTERACTIVE MEDIA</code> in the Fall of 2009 where I first learned to create a website in HTML and CSS. As part of that class, I ended up developing my first website using <a href="https://wordpress.com/">Wordpress</a>, and never looked back until this year...</p>
+			<p> <strong>However,</strong> recent changes to the availability of HTML/CSS tools, layout builders and
+<!-- This is a style I had ChatGPT make for me, and then I modified to fit my site better-->
+			<span style="
+        font-family: 'Unbounded', sans-serif;
+        color: black;
+        text-shadow: 0 0 5px #0f0, 0 0 10px #00ff00, 0 0 20px #007700;
+        display: inline-block;
+        position: relative;
+        animation: flicker 1.5s infinite alternate, glitch 0.3s infinite;
+    ">
+        ChatGPT
+    </span>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap');
+
+        @keyframes flicker {
+            0% { opacity: 1; }
+            50% { opacity: 0.8; }
+            100% { opacity: 1; }
+        }
+
+        @keyframes glitch {
+            0% { transform: translate(0, 0); }
+            20% { transform: translate(-2px, 2px); }
+            40% { transform: translate(2px, -2px); }
+            60% { transform: translate(-2px, -2px); }
+            80% { transform: translate(2px, 2px); }
+            100% { transform: translate(0, 0); }
+        }
+    </style>
+<!-- End of Goofy ChatGPT CSS-->
+make it too easy to decode and code your own website by hand. Additionally, static websites (websites that don't run code like php or javascript) are much less susceptible to attacks from hackers.</p> 
+			<p>I am currently rewriting my personal website using the <a href="https://gohugo.io/">HUGO</a> framework, which uses the GO language, markdown, and CSS! No complicated site builder, just code!</p>
 			
 			<h3>Why make a website by hand?</h3>
-				<h4>Save money by not paying for stuff you don't own</h4>
+				<h4>🎨 Save money by not paying for stuff you don't own</h4>
 					<p>Squarespace, Wix, Cargo, etc are all <strong style="text-transform:uppercase;">too expensive</strong> and you don't even own your site! They "own" their templates, so they prevent you from exporting your site and taking the files somewhere else. Most web hosting is not like that! When you make your site yourself, you can easily upload it to another host when whatever one you're using goes down or makes a policy decision you don't agree with. Squarespace <i>et al.</i> want you to believe that coding your own site is too hard, so you'll keep giving them money. <strong>Stop giving them money!</strong></p>
-				<h4>Enjoy total creative freedom</h4>
+				<h4 style="color: white; text-shadow: 1px 1px 2px black, 0 0 25px cornsilk, 0 0 25px goldenrod;">🎨 Enjoy total creative freedom</h4>
 					<p>Your art and design work is unique to you, so why shouldn't your website be? When you build it from scratch, you can make your site have any layout and any style you can dream of. If you wonder "can I make a webpage do this?", usually the answer is I can!</p>
-				<h4>Learn something new (and fun?!)</h4>
-					<p>Learning HTML and CSS is a great way to get more comfortable with code. It's not programming, but for a lot of people it's a first step towards learning to program. Even if you have no interest in coding, it's good to learn a new skill. As a teacher I modify and use HTML code all the time when designing assignments on Schoology.</p>
+				<h4>🧠 Learn something new (and fun?!)</h4>
+					<p>Learning HTML and CSS is a great way to get more comfortable with code. It's not programming, but for a lot of people it's a first step towards learning to program. Even if you have no interest in coding, it's good to learn a new skill. <code>ᕙ(◕ل͜◕)ᕗ</code> </p>
+					<p> As a teacher I modify and use HTML code all the time when designing quizzes/assignments on Schoology.</p>
 					<p>Also, I think it's fun. :)</p>
 					
-			<h3>Some inspiring bespoke websites</h3>
+	<!-- Not all of my comments are valuable, just like in real life. -->				
+					
+			<h3>Some inspiring basic HTML websites</h3>
 				<ul>
 					<li>[List to be populated during the workshop]</li>
+					<li><a href="https://tutor.0b.ee/">tutor.0b.ee</a></li>
+					<li><a href="https://www.berkshirehathaway.com/">berkshirehathaway.com</a></li>
+					<li><a href="https://text.npr.org/">text.npr.org</a></li>
 				</ul>
-		<h2 id="start">Create a GitHub Account and Repository</h2>
+		<h2 id="start">2️⃣ Create a GitHub Account and Repository</h2>
 					<h3>Creating a GitHub Account</h3>
-			            <p><input type="checkbox"> Create a new account on GitHub using your personal email account <strong>DO NOT USE YOUR SCHOOL EMAIL</strong></p>
+			            <p><input type="checkbox"> Create a new account on GitHub using your personal email account
+			            </br> <strong style="color:red";>DO NOT USE YOUR SCHOOL EMAIL</strong></p>
 			        <h3>Create a repository</h3>
 			            <p><input type="checkbox"> Create a new repository on GitHub that follows the naming convention: <code>githubsername.github.io</code></p>
 			            <p><strong>If you do not name the repository correctly you will need to rename the repository</strong></p>
 							
-		<h2 id="start">Getting started with HTML code</h2>
+		<h2 id="start">3️⃣ Getting started with HTML code</h2>
 			<p>Your website is going to start as files on your computer, then you'll put them online at the end of the workshop. Let's make some files!</p>
 			
 			<h3>Files and folders</h3>
@@ -100,13 +155,14 @@
 				<p><input type="checkbox"> <strong>Open your text editor, create a new document, and save it as <code>index.html</code>.</strong> This will become the first page people see when they visit your website.</p>
 				<p><input type="checkbox"> <strong>Create another new document, and save it as <code>style.css</code>.</strong> This is where you'll change how <code>index.html</code> (and any other page you make) will look.</p>
 				<p><input type="checkbox"> <strong>Create a new folder within the first one. Put the images you want to share on your site in this folder.</strong> This is optional, but it keeps things organized. The folder can have any name; some popular choices are "img", "assets", etc.</p>
-				<p><small><strong>Note:</strong> <em>Ideally, folder and file names <strong>should never include spaces</strong>. They get rendered as <code>%20</code> in the address bar and I think it looks bad.</small></em></p>
+				<p><small><strong>Note:</strong> <em>Ideally, folder and file names <strong>should never include spaces</strong>. 
+				They get rendered as <code>%20</code> in the address bar and <strong>I think it looks bad ಠ_ಠ </strong></small></em></p>
 				
 			<h3>Tools</h3>
 				<p>Before we start <em>writing</em> code, let's <em>read</em> some. Safari (Chrome at school has this funcionality blocked) has tools to view the source code of any web page you visit. When you're on a site that's doing something you like and you're wondering how they did it, check out the code!</p>
 				<h4>Enable Web Developer Tools</h4>
 					<p><input type="checkbox"> <strong>Go to Safari>Settings>Advanced.</strong> Enable Web Developer Tools.</p>
-				
+									
 				<h4>View source: ⌥ ⌘ U (Mac)</h4>
 					<p>Like the name suggests, this will take you straight to the code of the HTML document you're currently viewing, as it was written. It can more or less useful depending on the site you're on. Pages written by hand are typically legible to other human beings, while code generated by a program can be pretty obscure.</p>
 					<p><input type="checkbox"> <strong>View the source of the Google Doodle page.</strong></p>
@@ -118,7 +174,7 @@
 					<p>What you see here may not make sense to you now, but hopefully will become more clear after the following sections on HTML and CSS. Also, the inspector interface looks different across browsers, so you may need to look up a guide for your specific browser if you're getting lost.</p>
 				<p><small><strong>Note:</strong> <em>You can also access view source and inspect element by right clicking. Another way to access the source code is by typing "<code>view-source:</code>" into the address bar before the "<code>https://</code>" (I've even done this on my phone, when I <b>really</b> wanted to see).</small></em></p>				
 				
-		<h2 id="HTML">HTML = <u>h</u>yper<u>t</u>ext <u>m</u>arkup <u>l</u>anguage</h2>
+		<h2 id="HTML">4️⃣ HTML = <u>h</u>yper<u>t</u>ext <u>m</u>arkup <u>l</u>anguage</h2>
 			<p>HTML is the structure and content of every webpage. It's made up of "elements", the things you inspected in the last section. Elements are defined by tags, which are enclosed in angled brackets, &lt; and &gt;.</p>
 			<p style="text-align:center;">
 				An HTML element:</br>
@@ -133,6 +189,7 @@
 			
 			<h3>A minimal webpage</h3>
 				<p><input type="checkbox"> <strong>Copy the following code and paste it into your <code>index.html</code> file.</strong></p>
+				<!-- If you are feeling crazy, you could just copy all of my code and slowly edit it into something else. I personally enjoy this kind of franken-coding, but it's not for everyone -->
 <textarea style="width: 800px; height:220px;">
 <!DOCTYPE html>
 <html lang="en">
@@ -172,13 +229,13 @@
 				<pre><code>&lt;a href="https://example.com"&gt;Example&lt;/a&gt;</code></pre>
 				<p><code>a</code> stands for anchor and <code>href</code> stands for hyperlink reference, which is the destination of the link. The text between the start and end tags is what will display on the page. There are two types of links:</p>
 				<ul>
-					<li>Relative links are links between files on your own website. To get to a page in the root folder named <code>about.html</code> from the index page, you'd use <code>href="about.html"</code>. If the page is within a folder, for example a folder made up of blog posts, you'd navigate to it with something like <code>href="blog/examplepost.html"</a></code>. If you want to navigate <em>from</em> a page within a folder <em>back out</em> to the index page of the folder that contains it, you'd use <code>"href="../index.html"</code>. More info on <a href="https://www.w3schools.com/html/html_filepaths.asp">relative file paths</a>. </li>
+					<li>Relative links are links between files on your own website. To get to a page in the root folder named <code>about.html</code> from the index page, you'd use <code>href="about.html"</code>. If the page is within a folder, for example a folder made up of blog posts, you'd navigate to it with something like <code>href="blog/examplepost.html"</a></code>. If you want to navigate <em>from</em> a page within a folder <em>back out</em> to the index page of the folder that contains it, you'd use <code>"href="../index.html""</code>. More info on <a href="https://www.w3schools.com/html/html_filepaths.asp">relative file paths</a>. </li>
 					<li>Absolute links are links to other websites. For these to work, you have to include the full URL, including the <code>https://</code>.</li>
 				</ul>
 				<p><input type="checkbox"> <strong>Add a link to <code>index.html</code> and test that it works.</strong> Your site doesn't have any other pages yet, so it should be an absolute link.</p>
 				<p>Images, links, headings, and paragraphs are all you really need to build a satisfying portfolio site, but here's a list of <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">every HTML element</a> for your reference.</p>
 			
-		<h2 id="CSS">CSS = <u>c</u>ascading <u>s</u>tyle <u>s</u>heets</h2>
+		<h2 id="CSS">5️⃣ CSS = <u>c</u>ascading <u>s</u>tyle <u>s</u>heets</h2>
 			<p>CSS changes the appearance of the page. Color, font, size, margins, and more can be changed for every HTML element. A CSS declatarion is formatted like this:</p>
 			<pre><code>selector {
   property: value;
@@ -214,12 +271,8 @@ body {
 }</code></pre>
 				<p>The period specifies that the CSS declaration is meant to be applied to a class. You can name the class whatever you want, as long as there are no spaces. Something short and descriptive works best.</p>
 			
-			<h3>Centering</h3>
-				<p></p>
-			<h3>Units</h3>
-				<p></p>
 			
-		<h2 id="images">Images on the web</h2>
+		<h2 id="images">6️⃣ Images on the web</h2>
 			<p></p>
 			
 			<h3>Resizing and compression</h3>
@@ -248,7 +301,7 @@ img {
   max-width: 100%;
 }</textarea>
 
-		<h2 id="galleries">Creating gallery layouts</h2>
+		<h2 id="galleries">7️⃣ Creating gallery layouts</h2>
 		
 			<h3>Sketching rectangles</h3>
 				<p><input type="checkbox"> <strong>Visit a portfolio site you admire, or one of the sites shared be in the introduction. Open the inpector tool. Add the CSS declatation <code> * { border:solid; }</code> to put a border around every single HTML element.</strong></p>
@@ -258,40 +311,75 @@ img {
 				<p><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Guide to Flexbox</a></p>
 				<p><a href="https://grid.layoutit.com/">CSS Grid Generator</a></p>
 			
-		<h2 id="hosting">Putting your site online</h2>
+		<h2 id="hosting">8️⃣ Putting your site online</h2>
 		
 			<h3>Free web hosts</h3>
 				<h4>Github Pages</h4>
 					<p>This site is hosted on Github Pages!</p>
-					<p>https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits</p>
-									<h4>Neocities</h4>
-					<p>My homepage is hosted on Neocities! It's a unique as a web host, becaue</p>
-					<p>full list of what you get https://neocities.org/supporter</p>
+					<p><a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits">GitHub Pages -  Usage Limits</a></p>
+
 				<h4>Other options</h4>
 					<p></p>
 					<p><a href="https://kalechips.net/stuff/hosting">Web host list for hobbyists</a></p>
 					
-			<h3>(optional) Getting a custom domain</h3>
+			<h3>✨optional✨ Getting a custom domain</h3>
 				<p>This part isn't free, unfortunately, but it's less expensive than you might have realized. You can get a .com, .net or a .org domain for about $10-$12 per <strong>year</strong>, less than a single <strong>month</strong> of Squarespace's least expensive plan. (When they offer you one year of free domain registration like it's a great deal, they're ripping you off!)</p>
 				<p>I buy my domains from <a href="https://www.namecheap.com/">Namecheap</a>, and I have no complaints.
 				
-		<h2 id="more">Learning more</h2>
+		<h2 id="more">📚 Learning more</h2>
 			<p></p>
 		
 			<h3>"Homework" AKA Things You Might Want to Add to Your Site but I Didn't Have Time to Go Over</h3>
 				<ul>
-					<li>Custom fonts</li>
-					<li>Favicons</li>
-					<li>Robots.txt</li>
-					<li>Giving links <code>:hover</code> and <code>:focus</code> styling</li>
+					<li><a href="https://fonts.google.com/knowledge/using_type/using_web_fonts">Custom fonts</a></li>
+					<li><a href="https://www.w3schools.com/html/html_favicon.asp">Favicons</a></li>
+					<li><code><a href="https://developers.google.com/search/docs/crawling-indexing/robots/create-robots-txt">Robots.txt</a></code></li>
+					<li>Giving links <code><a href="https://www.w3schools.com/cssref/sel_hover.php">:hover</a></code> and <code><a href="https://www.w3schools.com/cssref/sel_focus.php">:focus</a></code> styling</li>
 				</ul>
+			
+			<h3>Web 1.0 stuff</h3>
+				<ul>
+					<li><a href="https://patorjk.com/software/taag/">ASCII Text Generator</a></li>
+					<li><a href="https://www.asciiart.eu/image-to-ascii">ASCII Image Converter</a></li>
+				</ul>	
+				
 				
 			<h3>Resources and Communities</h3>
 				<ul>
 					<li><a href="https://www.w3schools.com/">W3Schools Online Web tutorials</a></li>
-					<li><a href="https://developer.mozilla.org/en-US/docs/Learn">MDN Web Docs</li>
+					<li><a href="https://developer.mozilla.org/en-US/docs/Learn">MDN Web Docs</a></li>
 					<li><a href="https://32bit.cafe/">32-Bit Cafe</a></li>
 					<li>You can ask me for help!</li>
+					<li>			<span style="
+        font-family: 'Unbounded', sans-serif;
+        color: black;
+        text-shadow: 0 0 5px #0f0, 0 0 10px #00ff00, 0 0 20px #007700;
+        display: inline-block;
+        position: relative;
+        animation: flicker 1.5s infinite alternate, glitch 0.3s infinite;
+    ">
+        ChatGPT
+    </span>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap');
+
+        @keyframes flicker {
+            0% { opacity: 1; }
+            50% { opacity: 0.8; }
+            100% { opacity: 1; }
+        }
+
+        @keyframes glitch {
+            0% { transform: translate(0, 0); }
+            20% { transform: translate(-2px, 2px); }
+            40% { transform: translate(2px, -2px); }
+            60% { transform: translate(-2px, -2px); }
+            80% { transform: translate(2px, 2px); }
+            100% { transform: translate(0, 0); }
+        }
+    </style>
+</li>
 				</ul>
 
 	</main>
@@ -300,4 +388,25 @@ img {
 
 </html>
 
-<!-- BYE!!! Have fun and rememeber to send me a link to your website! -->
+<!-- This website was made in beautiful
+ ,ggg, ,ggggggg,                                                            
+dP""Y8,8P"""""Y8b                                                 ,dPYb,    
+Yb, `8dP'     `88                                                 IP'`Yb    
+ `"  88'       88                                                 I8  8I    
+     88        88                                                 I8  8bgg, 
+     88        88   ,ggg,   gg    gg    gg   ,gggg,gg   ,gggggg,  I8 dP" "8 
+     88        88  i8" "8i  I8    I8    88bgdP"  "Y8I   dP""""8I  I8d8bggP" 
+     88        88  I8, ,8I  I8    I8    8I i8'    ,8I  ,8'    8I  I8P' "Yb, 
+     88        Y8, `YbadP' ,d8,  ,d8,  ,8I,d8,   ,d8b,,dP     Y8,,d8    `Yb,
+     88        `Y8888P"Y888P""Y88P""Y88P" P"Y8888P"`Y88P      `Y888P      Y8 
+ ,gggggggggggg,                                                                             
+dP"""88""""""Y8b,          ,dPYb,                                                           
+Yb,  88       `8b,         IP'`Yb                                                           
+ `"  88        `8b         I8  8I                                                           
+     88         Y8         I8  8'                                                           
+     88         d8 ,ggg,   I8 dP    ,gggg,gg  gg    gg    gg   ,gggg,gg   ,gggggg,   ,ggg,  
+     88        ,8Pi8" "8i  I8dP    dP"  "Y8I  I8    I8    88bgdP"  "Y8I   dP""""8I  i8" "8i 
+     88       ,8P'I8, ,8I  I8P    i8'    ,8I  I8    I8    8I i8'    ,8I  ,8'    8I  I8, ,8I 
+     88______,dP' `YbadP' ,d8b,_ ,d8,   ,d8b,,d8,  ,d8,  ,8I,d8,   ,d8b,,dP     Y8, `YbadP' 
+    888888888P"  888P"Y8888P'"Y88P"Y8888P"`Y8P""Y88P""Y88P" P"Y8888P"`Y88P      `Y8888P"Y888
+    -->
