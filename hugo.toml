@@ -1,3 +1,37 @@
-baseURL = 'https:/cambron.cc/'
+baseURL = 'https://cambron.cc'
+enableEmoji = true
 languageCode = 'en-us'
 title = 'Cambron.cc'
+tableOfContents = true
+theme = 'hugo-xmin'
+[permalinks]
+	note = '/note/:year/:month/:day/:slug/'
+	posts = '/posts/:year/:month/:day/:slug/'
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    name = 'About'
+    url = 'about/'
+    weight = 20
+  [[menu.main]]
+    name = 'Teaching'
+    url = 'teaching/'
+    weight = 30    
+  [[menu.main]]
+    name = 'Tags'
+    url = 'tags/'
+    weight = 40
+  [[menu.main]]
+    name = 'Subscribe'
+    url = 'index.xml'
+[params]
+  footer = "&copy; [andrew](https://cambron.cc) 2020- {Year} -- All rights reserved."
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
