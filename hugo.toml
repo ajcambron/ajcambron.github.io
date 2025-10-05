@@ -4,9 +4,18 @@ languageCode = 'en-us'
 title = 'Cambron.cc'
 tableOfContents = true
 theme = 'hugo-xmin'
+
+# ----------------------------------------------------
+# 1. TAXONOMIES: Define 'category' and 'tag' for grouping content.
+# ----------------------------------------------------
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [permalinks]
 	note = '/note/:year/:month/:day/:slug/'
 	posts = '/posts/:year/:month/:day/:slug/'
+
 [menu]
   [[menu.main]]
     name = 'Home'
@@ -19,7 +28,14 @@ theme = 'hugo-xmin'
   [[menu.main]]
     name = 'Teaching'
     url = 'teaching/'
-    weight = 30    
+    weight = 30
+  
+  # 2. MENU ADDITION: Link to the new Categories index page.
+  [[menu.main]]
+    name = 'Categories'
+    url = 'categories/'
+    weight = 35 # Placed between Teaching and Tags
+    
   [[menu.main]]
     name = 'Tags'
     url = 'tags/'
@@ -27,6 +43,8 @@ theme = 'hugo-xmin'
   [[menu.main]]
     name = 'Subscribe'
     url = 'index.xml'
+    weight = 50 # Adjusted weight due to new item
+
 [params]
   footer = "&copy; [andrew](https://cambron.cc) 2020- {Year} -- All rights reserved."
 

@@ -1,6 +1,11 @@
 ---
-title: "Chicken Biriyani  - Instant Pot"
-date: 2023-03-11
+title: "Chicken Biriyani - Instant Pot"
+date: 2023-03-11T00:00:00Z
+draft: false
+categories:
+  - Recipes # This is your category name
+tags:
+  - instant pot
 ---
 
 ### Ingredients
