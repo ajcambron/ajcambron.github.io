@@ -1,8 +1,7 @@
 ---
 title: "Cauliflower Crust Pizza"
-date: ""
-lastmod:
-url: /.../
+date: 2020-03-01T10:00:00-05:00  # <--- MUST be a valid date
+# url:  /.../
 description: "a delicious Cauliflower Pizza crust"
 categories:
  - baking
