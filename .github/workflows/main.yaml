@@ -3,15 +3,12 @@ on: push
 
 jobs:
   deploy:
-    # Updated to a modern, supported runner image
-    runs-on: ubuntu-latest 
+    runs-on: ubuntu-latest # Using a supported runner image
     steps:
       - name: Git checkout
-        # Updated to use the recommended v4 version of checkout action
         uses: actions/checkout@v4
         with:
-          # Required for processing themes that are submodules
-          submodules: true
+          submodules: recursive 
           fetch-depth: 0
 
       - name: Setup hugo
@@ -20,22 +17,17 @@ jobs:
           hugo-version: "0.68.3"
           
       - name: Build
-        # This command tells Hugo to generate the static files into the ./public directory
-        run: hugo --minify
+        # ADDED --config flag to explicitly point to hugo.toml
+        run: hugo --config hugo.toml --minify
         
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          # This secret holds the Personal Access Token (PAT) needed to push to the external repository.
           personal_token: ${{ secrets.HUGO }}
-          # The target repository where the static site will be pushed
           external_repository: ajcambron/ajcambron.github.io
-          # The directory containing the built site content
           publish_dir: ./public
-          # This prevents deleting files that exist in the target branch but not in ./public 
           keep_files: true
           user_name: ajcambron
           user_email: ajcambron@gmail.com
-          publish_branch: main
-          # Sets the CNAME file for custom domain support
-          cname: www.cambron.cc
+          publish_branch: main 
+          cname: cambron.cc
