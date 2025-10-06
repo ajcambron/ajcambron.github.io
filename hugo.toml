@@ -38,21 +38,29 @@ tableOfContents = true
 
 [params.socialIcons]
   # Add your social links (e.g., GitHub, LinkedIn, etc.)
-  # Example: {name = "github", url = "[https://github.com/ajcambron](https://github.com/ajcambron)"}
+  # Example: 
+  {name = "email", url = "mailto:fake@fakefakefake.com"}
 
 # === Menu Links ===
+[menu]
+ [[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 10
 [[menu.main]]
   name = "About"
   url = "about/"
-  weight = 10
-[[menu.main]]
-  name = "Recipes"
-  url = "recipes/"
   weight = 20
 [[menu.main]]
-  name = "Teaching"
-  url = "teaching/"
+  identifier = "cv"
+  name = "CV"
+  url = "/cv/"
   weight = 30
+[[menu.main]]
+  name = "Blog"
+  url = "blog/"
+  weight = 40
 
 [permalinks]
 	note = '/note/:year/:month/:day/:slug/'
