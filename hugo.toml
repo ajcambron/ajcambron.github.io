@@ -28,9 +28,6 @@ tableOfContents = true
   ShowWordCount = true
   ShowRssButton = true
   
-  # Set the home page header:
-  homeInfoParams.Title = "Andrew Cambron's Homepage"
-  homeInfoParams.Content = "The smile you send out comes back to you."
 
 [params.assets]
   disableHLJS = true # Disable Highlight.js if you use default Hugo Chroma
