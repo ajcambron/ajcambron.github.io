@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Dough on Cambron.cc</title>
+    <title>Dough on cambron.cc</title>
     <link>https://cambron.cc/categories/dough/</link>
-    <description>Recent content in Dough on Cambron.cc</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Dough on cambron.cc</description>
+    <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2020 10:00:00 -0500</lastBuildDate>
     <atom:link href="https://cambron.cc/categories/dough/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cauliflower Crust Pizza</title>
-      <link>https://cambron.cc/...</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/...</guid>
-      <description>&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 cups of finely ground Cauliflower Rice (from one head of Cauliflower)&lt;/li&gt;&#xA;&lt;li&gt;1/4 cup parmesan cheese&lt;/li&gt;&#xA;&lt;li&gt;1/4 cup cheddar or mozzarella cheese&lt;/li&gt;&#xA;&lt;li&gt;1/4 teaspoon salt&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon basil&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon oregano&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon garlic powder&lt;/li&gt;&#xA;&lt;li&gt;1/8 teaspoon red chili powder&lt;/li&gt;&#xA;&lt;li&gt;2 tablespoon almond flour&lt;/li&gt;&#xA;&lt;li&gt;1 egg&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;&#xA;&lt;p&gt;Place a pizza stone in the oven. Preheat oven to 450 degrees.&lt;/p&gt;&#xA;&lt;p&gt;On a cutting board, prepare a piece of parchment paper and spray it with avocado oil.&lt;/p&gt;</description>
+      <link>https://cambron.cc/recipes/2020-03-01-cauliflower-pizza/</link>
+      <pubDate>Sun, 01 Mar 2020 10:00:00 -0500</pubDate>
+      <guid>https://cambron.cc/recipes/2020-03-01-cauliflower-pizza/</guid>
+      <description>a delicious Cauliflower Pizza crust</description>
     </item>
   </channel>
 </rss>

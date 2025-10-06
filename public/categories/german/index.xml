@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>German on Cambron.cc</title>
+    <title>German on cambron.cc</title>
     <link>https://cambron.cc/categories/german/</link>
-    <description>Recent content in German on Cambron.cc</description>
-    <generator>Hugo</generator>
+    <description>Recent content in German on cambron.cc</description>
+    <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cambron.cc/categories/german/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,24 @@
       <link>https://cambron.cc/recipes/2021-02-07-rye-bread-roggenmischbrot-21/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/recipes/2021-02-07-rye-bread-roggenmischbrot-21/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/PXL_20210214_140211696.PORTRAIT-768x1024.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;The finished bread after a day of resting. (Attempt 1)&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;One of things that I miss the most about living in Germany is the incredible variety of breads that just aren&amp;rsquo;t available in the United States.&lt;/p&gt;&#xA;&lt;p&gt;During Covid-19, I&amp;rsquo;ve been making weekly loaves of &lt;a href=&#34;https://cooking.nytimes.com/recipes/11376-no-knead-bread?ds_c=71700000052595478&amp;amp;gclid=Cj0KCQiA1KiBBhCcARIsAPWqoSp1Ka1W8I9349xKow38uTVGiXqtZWYeYhiqyTBJFN5lRSgbKSvaFKgaAtrHEALw_wcB&amp;amp;gclsrc=aw.ds&#34;&gt;Jim Lahey&amp;rsquo;s No Knead bread&lt;/a&gt;, and thought my next bread should be one that I am unable to find in the United States.&lt;/p&gt;</description>
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://cambron.cc/images/recipes/RyeBeauty.jpg&#34;
+         alt=&#34;The finished bread after a day of resting. (Attempt 1)&#34; width=&#34;50%&#34;/&gt; &lt;figcaption&gt;
+            Rye Beauty&lt;p&gt;The finished bread after a day of resting. (Attempt 1)&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;One of things that I miss the most about living in Germany is the incredible variety of breads that just aren&amp;rsquo;t available in the United States.&lt;/p&gt;
+&lt;p&gt;During Covid-19, I&amp;rsquo;ve been making weekly loaves of &lt;a href=&#34;https://cooking.nytimes.com/recipes/11376-no-knead-bread?ds_c=71700000052595478&amp;amp;gclid=Cj0KCQiA1KiBBhCcARIsAPWqoSp1Ka1W8I9349xKow38uTVGiXqtZWYeYhiqyTBJFN5lRSgbKSvaFKgaAtrHEALw_wcB&amp;amp;gclsrc=aw.ds&#34;&gt;Jim Lahey&amp;rsquo;s No Knead bread&lt;/a&gt;, and thought my next bread should be one that I am unable to find in the United States.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Auf dem Weg! High School German</title>
       <link>https://cambron.cc/teaching/pedagogy/2020-08-08-auf-dem-weg-high-school-german/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/teaching/pedagogy/2020-08-08-auf-dem-weg-high-school-german/</guid>
-      <description>&lt;p&gt;A project that I have been stewing on for a long time is now being realized due to the passion of a dedicated group of High School teachers.&lt;/p&gt;&#xA;&lt;p&gt;To check out the project on Rebus Community &lt;a href=&#34;https://www1.rebus.community/#/project/601026e8-cc26-4e2b-915f-017ea1ed13c1&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/aufdemweg-819x1024.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;A project that I have been stewing on for a long time is now being realized due to the passion of a dedicated group of High School teachers.&lt;/p&gt;
+&lt;p&gt;To check out the project on Rebus Community &lt;a href=&#34;https://www1.rebus.community/#/project/601026e8-cc26-4e2b-915f-017ea1ed13c1&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/aufdemweg-819x1024.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

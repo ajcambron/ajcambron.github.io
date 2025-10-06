@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Recipes on Cambron.cc</title>
+    <title>Recipes on cambron.cc</title>
     <link>https://cambron.cc/recipes/</link>
-    <description>Recent content in Recipes on Cambron.cc</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Recipes on cambron.cc</description>
+    <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cambron.cc/recipes/index.xml" rel="self" type="application/rss+xml" />
@@ -13,84 +13,222 @@
       <link>https://cambron.cc/recipes/2023-03-11-chicken-biriyani/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/recipes/2023-03-11-chicken-biriyani/</guid>
-      <description>&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;h4 id=&#34;marinade&#34;&gt;Marinade&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;180 g &lt;strong&gt;Plain Yogurt&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 tbsp &lt;strong&gt;Garam Masala&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 tbsp &lt;strong&gt;Red Chili Powder&lt;/strong&gt; (from an Indian grocer, use Hot for more kick, Kashmiri for mild)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1/2 tsp &lt;strong&gt;Tumeric Powder&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 tbsp &lt;strong&gt;Ginger&lt;/strong&gt; - Grated&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;3 cloves &lt;strong&gt;Garlic&lt;/strong&gt; - Pressed&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;8 grams - &lt;strong&gt;Fresh&lt;/strong&gt; &lt;strong&gt;Mint&lt;/strong&gt; - chopped&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;8 grams - &lt;strong&gt;Fresh&lt;/strong&gt; &lt;strong&gt;Cilantro&lt;/strong&gt; - chopped&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2 tbsp &lt;strong&gt;Lemon Juice&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2 tsp &lt;strong&gt;Salt&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 kg (2 lbs) &lt;strong&gt;Chicken Thighs&lt;/strong&gt; - bone in&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;
+&lt;h4 id=&#34;marinade&#34;&gt;Marinade&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;180 g &lt;strong&gt;Plain Yogurt&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 tbsp &lt;strong&gt;Garam Masala&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 tbsp &lt;strong&gt;Red Chili Powder&lt;/strong&gt; (from an Indian grocer, use Hot for more kick, Kashmiri for mild)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1/2 tsp &lt;strong&gt;Tumeric Powder&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 tbsp &lt;strong&gt;Ginger&lt;/strong&gt; - Grated&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3 cloves &lt;strong&gt;Garlic&lt;/strong&gt; - Pressed&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;8 grams - &lt;strong&gt;Fresh&lt;/strong&gt; &lt;strong&gt;Mint&lt;/strong&gt; - chopped&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;8 grams - &lt;strong&gt;Fresh&lt;/strong&gt; &lt;strong&gt;Cilantro&lt;/strong&gt; - chopped&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 tbsp &lt;strong&gt;Lemon Juice&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 tsp &lt;strong&gt;Salt&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 kg (2 lbs) &lt;strong&gt;Chicken Thighs&lt;/strong&gt; - bone in&lt;/p&gt;</description>
     </item>
     <item>
       <title>Raclette</title>
       <link>https://cambron.cc/recipes/2022-12-23-raclette/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/recipes/2022-12-23-raclette/</guid>
-      <description>&lt;p&gt;At its simplest Raclette is a soft alpine cheese that is traditionally served melted, over boiled potatoes.&lt;/p&gt;&#xA;&lt;p&gt;However, the practice of using a tabletop grill to melt Raclette cheese and prepare a variety of other foods is a popular winter past-time across the German speaking world.&lt;/p&gt;&#xA;&lt;p&gt;As with many other Americans however, the world of Raclette is still somewhat foreign. The &amp;ldquo;pack in the box&amp;rdquo; instructions that accompany American Raclette grills sell short this lovely way of grazing over melted cheese and meats. And while I preface any directions that follow with the disclosure that, &amp;ldquo;there is no wrong way to use a Raclette grill,&amp;rdquo; I have certainly had Raclette nights go better than others, and my hope is to catalog which approaches work best.&lt;/p&gt;</description>
+      <description>&lt;p&gt;At its simplest Raclette is a soft alpine cheese that is traditionally served melted, over boiled potatoes.&lt;/p&gt;
+&lt;p&gt;However, the practice of using a tabletop grill to melt Raclette cheese and prepare a variety of other foods is a popular winter past-time across the German speaking world.&lt;/p&gt;
+&lt;p&gt;As with many other Americans however, the world of Raclette is still somewhat foreign. The &amp;ldquo;pack in the box&amp;rdquo; instructions that accompany American Raclette grills sell short this lovely way of grazing over melted cheese and meats. And while I preface any directions that follow with the disclosure that, &amp;ldquo;there is no wrong way to use a Raclette grill,&amp;rdquo; I have certainly had Raclette nights go better than others, and my hope is to catalog which approaches work best.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jim Lahey&#39;s No Knead Bread ala Cambron</title>
       <link>https://cambron.cc/recipes/2021-02-20-jim-laheys-no-knead-bread-ala-cambron/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/recipes/2021-02-20-jim-laheys-no-knead-bread-ala-cambron/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/IMG_0092-768x1024.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Baking bread was more or less an accident. My father bakes bread, my friends bake bread, and for the last few years I&amp;rsquo;ve been trying to eat low carb. Somehow I thought I&amp;rsquo;d avoid the bug&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;This recipe is probably the most popular white bread recipe on the internet, and there are already a LOT of variations on this recipe. My suggestions are limited, and already available on various comment threads. This recipe is mostly so that I don&amp;rsquo;t forget!&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IMG_0092-768x1024.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Baking bread was more or less an accident. My father bakes bread, my friends bake bread, and for the last few years I&amp;rsquo;ve been trying to eat low carb. Somehow I thought I&amp;rsquo;d avoid the bug&amp;hellip;&lt;/p&gt;
+&lt;p&gt;This recipe is probably the most popular white bread recipe on the internet, and there are already a LOT of variations on this recipe. My suggestions are limited, and already available on various comment threads. This recipe is mostly so that I don&amp;rsquo;t forget!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rye Bread (Roggenmischbrot 2:1)</title>
       <link>https://cambron.cc/recipes/2021-02-07-rye-bread-roggenmischbrot-21/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/recipes/2021-02-07-rye-bread-roggenmischbrot-21/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/PXL_20210214_140211696.PORTRAIT-768x1024.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;The finished bread after a day of resting. (Attempt 1)&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;One of things that I miss the most about living in Germany is the incredible variety of breads that just aren&amp;rsquo;t available in the United States.&lt;/p&gt;&#xA;&lt;p&gt;During Covid-19, I&amp;rsquo;ve been making weekly loaves of &lt;a href=&#34;https://cooking.nytimes.com/recipes/11376-no-knead-bread?ds_c=71700000052595478&amp;amp;gclid=Cj0KCQiA1KiBBhCcARIsAPWqoSp1Ka1W8I9349xKow38uTVGiXqtZWYeYhiqyTBJFN5lRSgbKSvaFKgaAtrHEALw_wcB&amp;amp;gclsrc=aw.ds&#34;&gt;Jim Lahey&amp;rsquo;s No Knead bread&lt;/a&gt;, and thought my next bread should be one that I am unable to find in the United States.&lt;/p&gt;</description>
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://cambron.cc/images/recipes/RyeBeauty.jpg&#34;
+         alt=&#34;The finished bread after a day of resting. (Attempt 1)&#34; width=&#34;50%&#34;/&gt; &lt;figcaption&gt;
+            Rye Beauty&lt;p&gt;The finished bread after a day of resting. (Attempt 1)&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;One of things that I miss the most about living in Germany is the incredible variety of breads that just aren&amp;rsquo;t available in the United States.&lt;/p&gt;
+&lt;p&gt;During Covid-19, I&amp;rsquo;ve been making weekly loaves of &lt;a href=&#34;https://cooking.nytimes.com/recipes/11376-no-knead-bread?ds_c=71700000052595478&amp;amp;gclid=Cj0KCQiA1KiBBhCcARIsAPWqoSp1Ka1W8I9349xKow38uTVGiXqtZWYeYhiqyTBJFN5lRSgbKSvaFKgaAtrHEALw_wcB&amp;amp;gclsrc=aw.ds&#34;&gt;Jim Lahey&amp;rsquo;s No Knead bread&lt;/a&gt;, and thought my next bread should be one that I am unable to find in the United States.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Australian Sausage Rolls</title>
       <link>https://cambron.cc/recipes/2020-11-25-australian-sausage-rolls/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/recipes/2020-11-25-australian-sausage-rolls/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/IMG_20201010_212919_568-767x1024.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h4&gt;&#xA;&lt;h5 id=&#34;meat&#34;&gt;Meat&lt;/h5&gt;&#xA;&lt;p&gt;500g Ground Beef&lt;br&gt;&#xA;500g Ground Pork&lt;/p&gt;&#xA;&lt;h5 id=&#34;produce&#34;&gt;Produce&lt;/h5&gt;&#xA;&lt;p&gt;3 Cloves Garlic&lt;br&gt;&#xA;1 Carrot&lt;br&gt;&#xA;1 Celery Stalk&lt;br&gt;&#xA;1 Medium Brown Onion&lt;/p&gt;&#xA;&lt;h4 id=&#34;dry-spices&#34;&gt;Dry Spices&lt;/h4&gt;&#xA;&lt;h5 id=&#34;seasoning-mix&#34;&gt;Seasoning Mix&lt;/h5&gt;&#xA;&lt;p&gt;1 Tbsp Nutmeg&lt;br&gt;&#xA;1 Tbsp Sage&lt;br&gt;&#xA;1 Tbsp Onion Powder&lt;br&gt;&#xA;1 Tbsp Paprika (Sweet)&lt;br&gt;&#xA;1 Tbsp Thyme&lt;/p&gt;&#xA;&lt;h5 id=&#34;for-mince&#34;&gt;For Mince&lt;/h5&gt;&#xA;&lt;p&gt;Salt &amp;amp; Pepper&lt;br&gt;&#xA;Bundle Fresh Parsley&lt;/p&gt;&#xA;&lt;h5 id=&#34;for-garnish&#34;&gt;For Garnish&lt;/h5&gt;&#xA;&lt;p&gt;1 Tbsp Fennel Seed&lt;/p&gt;&#xA;&lt;h4 id=&#34;additional-ingredients&#34;&gt;Additional Ingredients&lt;/h4&gt;&#xA;&lt;p&gt;1.5 Tbsp Tomato Paste&lt;br&gt;&#xA;Worcestershire Sauce&lt;br&gt;&#xA;.5 Cup Breadcrumbs&lt;br&gt;&#xA;Cooking Oil&lt;br&gt;&#xA;Ketchup&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IMG_20201010_212919_568-767x1024.jpg&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h4&gt;
+&lt;h5 id=&#34;meat&#34;&gt;Meat&lt;/h5&gt;
+&lt;p&gt;500g Ground Beef&lt;br&gt;
+500g Ground Pork&lt;/p&gt;
+&lt;h5 id=&#34;produce&#34;&gt;Produce&lt;/h5&gt;
+&lt;p&gt;3 Cloves Garlic&lt;br&gt;
+1 Carrot&lt;br&gt;
+1 Celery Stalk&lt;br&gt;
+1 Medium Brown Onion&lt;/p&gt;
+&lt;h4 id=&#34;dry-spices&#34;&gt;Dry Spices&lt;/h4&gt;
+&lt;h5 id=&#34;seasoning-mix&#34;&gt;Seasoning Mix&lt;/h5&gt;
+&lt;p&gt;1 Tbsp Nutmeg&lt;br&gt;
+1 Tbsp Sage&lt;br&gt;
+1 Tbsp Onion Powder&lt;br&gt;
+1 Tbsp Paprika (Sweet)&lt;br&gt;
+1 Tbsp Thyme&lt;/p&gt;
+&lt;h5 id=&#34;for-mince&#34;&gt;For Mince&lt;/h5&gt;
+&lt;p&gt;Salt &amp;amp; Pepper&lt;br&gt;
+Bundle Fresh Parsley&lt;/p&gt;
+&lt;h5 id=&#34;for-garnish&#34;&gt;For Garnish&lt;/h5&gt;
+&lt;p&gt;1 Tbsp Fennel Seed&lt;/p&gt;
+&lt;h4 id=&#34;additional-ingredients&#34;&gt;Additional Ingredients&lt;/h4&gt;
+&lt;p&gt;1.5 Tbsp Tomato Paste&lt;br&gt;
+Worcestershire Sauce&lt;br&gt;
+.5 Cup Breadcrumbs&lt;br&gt;
+Cooking Oil&lt;br&gt;
+Ketchup&lt;/p&gt;</description>
     </item>
     <item>
       <title>Punky German Beer Cheese (Obazda)</title>
       <link>https://cambron.cc/recipes/2020-05-06-punky-german-beer-cheese-obazda/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/recipes/2020-05-06-punky-german-beer-cheese-obazda/</guid>
-      <description>&lt;p&gt;One of my favorite parts of enjoying a German Biergarten in the summer is the onion covered cheese spread that goes on a crusty Bavarian pretzel.&lt;/p&gt;&#xA;&lt;p&gt;Here is my recipe for Obazda, using readily available ingredients in the USA&lt;/p&gt;&#xA;&lt;h4 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h4&gt;&#xA;&lt;p&gt;250g Camembert (let ripen! the stinkier the better!)&lt;br&gt;&#xA;20g (2 tbsp) Butter&lt;br&gt;&#xA;100g (half a package) Philadelphia cream cheese (Frischkäse if available)&lt;br&gt;&#xA;50g (half a small onion) finely chopped onion (cut in half to create rings)&lt;br&gt;&#xA;1 tsp Caroway seed (or more to taste)&lt;br&gt;&#xA;1/4 cup of beer. Preferably a German lager (Spaten, Hacker Pschorr, or Augustiner if you are so lucky)&lt;br&gt;&#xA;Paprika (mixed in until you get the desireable orange color and flavor)&lt;br&gt;&#xA;Salt and Pepper&lt;/p&gt;</description>
+      <description>&lt;p&gt;One of my favorite parts of enjoying a German Biergarten in the summer is the onion covered cheese spread that goes on a crusty Bavarian pretzel.&lt;/p&gt;
+&lt;p&gt;Here is my recipe for Obazda, using readily available ingredients in the USA&lt;/p&gt;
+&lt;h4 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h4&gt;
+&lt;p&gt;250g Camembert (let ripen! the stinkier the better!)&lt;br&gt;
+20g (2 tbsp) Butter&lt;br&gt;
+100g (half a package) Philadelphia cream cheese (Frischkäse if available)&lt;br&gt;
+50g (half a small onion) finely chopped onion (cut in half to create rings)&lt;br&gt;
+1 tsp Caroway seed (or more to taste)&lt;br&gt;
+1/4 cup of beer. Preferably a German lager (Spaten, Hacker Pschorr, or Augustiner if you are so lucky)&lt;br&gt;
+Paprika (mixed in until you get the desireable orange color and flavor)&lt;br&gt;
+Salt and Pepper&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quick and Easy Hot Tomatillo Salsa</title>
       <link>https://cambron.cc/recipes/2020-03-27-quick-and-easy-hot-tomatillo-salsa/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/recipes/2020-03-27-quick-and-easy-hot-tomatillo-salsa/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/IMG_20200104_180759_01-768x1024.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Smoky spicy goodness&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;My attempt at making a tomatillo salsa with easily acquirable ingredients that is a consistent favorite!&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;p&gt;16 Tomatillos - remove skins and rinse&lt;br&gt;&#xA;5 Cloves Garlic&lt;br&gt;&#xA;1 Jalapeño&lt;br&gt;&#xA;5-6 dried red chilies or a spoonful of red chili powder (I actually like Indian red chili powder best, NOT chili powder from the grocery store, which includes additional spices)&lt;br&gt;&#xA;Salt&lt;br&gt;&#xA;spoonful of cumin&lt;br&gt;&#xA;juice from 1/2 lime&lt;/p&gt;</description>
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://cambron.cc/images/recipes/SalsaJar.jpg&#34;
+         alt=&#34;Smoky spicy goodness&#34; width=&#34;50%&#34;/&gt; &lt;figcaption&gt;
+            Optional Title Here&lt;p&gt;Smoky spicy goodness&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;My attempt at making a tomatillo salsa with easily acquirable ingredients that is a consistent favorite!&lt;/p&gt;
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;p&gt;16 Tomatillos - remove skins and rinse&lt;br&gt;
+5 Cloves Garlic&lt;br&gt;
+1 Jalapeño&lt;br&gt;
+5-6 dried red chilies or a spoonful of red chili powder (I actually like Indian red chili powder best, NOT chili powder from the grocery store, which includes additional spices)&lt;br&gt;
+Salt&lt;br&gt;
+spoonful of cumin&lt;br&gt;
+juice from 1/2 lime&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cauliflower Crust Pizza</title>
+      <link>https://cambron.cc/recipes/2020-03-01-cauliflower-pizza/</link>
+      <pubDate>Sun, 01 Mar 2020 10:00:00 -0500</pubDate>
+      <guid>https://cambron.cc/recipes/2020-03-01-cauliflower-pizza/</guid>
+      <description>a delicious Cauliflower Pizza crust</description>
     </item>
     <item>
       <title>REZEPT: Pfeffernüsse</title>
       <link>https://cambron.cc/recipes/2019-12-24-rezept-pfeffernusse/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/recipes/2019-12-24-rezept-pfeffernusse/</guid>
-      <description>&lt;p&gt;The next recipe recipe I want to look at is for Pfeffernüsse&amp;hellip; This is a case where our recipe has drifted very far from the German interpretation, but they still remain a popular staple at Christmas time&amp;hellip; Oddly the recipe card I was given reads &amp;ldquo;Neusenfefferson&amp;rdquo;&amp;hellip; which I can only assume was a mistake. Google yields no results for Neusenfefferson.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;American Recipe&lt;/th&gt;&#xA;          &lt;th&gt;German Recipe (courtesy of Dr. Oetker)&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1/2 lb (225g) Butter, creamed with 3 cup (360 g) Flour   1/2 tsp Vanilla   2 cups (30g) Ground Pecans&lt;/td&gt;&#xA;          &lt;td&gt;25g Candied Citron   250g Wheat Flour   1 1/2 tsp Baking Powder   160g Sugar   Lemon Zest   1 pinch of Salt   1 Egg   1 pinch of Ginger   1 pinch of Cardamom   1 pinch of Cloves   1 pinch of Allspice   1 pinch of fresh ground white pepper   3 1/2 tbsp Milk   25g ground Almonds&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Mix ingredients well and shape into small balls the size of English walnuts.      Bake 300 F for 45-50 min.      Dust with powdered sugar&lt;/td&gt;&#xA;          &lt;td&gt;Dice the candied citron very finely. Mix the flour with baking powder in a mixing bowl. Add sugar, lemon zest, salt, egg, spices, milk, almonds and lemon. Work through the ingredients with a mixer (dough hook) first briefly at the lowest, then at the highest level. Form 2 rolls, each about 25 cm long, from the dough. Place the dough rolls wrapped in foil in the fridge for a few hours or overnight.      Cover the baking sheet with parchment paper. Preheat oven to 350 for conventional ovens or 320 for convection.      If necessary, re-shape the dough rolls, cut them into slices about 1 cm thick and place them on the baking sheet (keep the dough rolls in the fridge from time to time so that they can be easily cut). Put the baking sheet in the oven.      Insert into the middle rack for around 15 minutes.      Pull the Pfeffernüsse off the baking sheet and let them cool on a wire rack.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+      <description>&lt;p&gt;The next recipe recipe I want to look at is for Pfeffernüsse&amp;hellip; This is a case where our recipe has drifted very far from the German interpretation, but they still remain a popular staple at Christmas time&amp;hellip; Oddly the recipe card I was given reads &amp;ldquo;Neusenfefferson&amp;rdquo;&amp;hellip; which I can only assume was a mistake. Google yields no results for Neusenfefferson.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;American Recipe&lt;/th&gt;
+          &lt;th&gt;German Recipe (courtesy of Dr. Oetker)&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1/2 lb (225g) Butter, creamed with 3 cup (360 g) Flour   1/2 tsp Vanilla   2 cups (30g) Ground Pecans&lt;/td&gt;
+          &lt;td&gt;25g Candied Citron   250g Wheat Flour   1 1/2 tsp Baking Powder   160g Sugar   Lemon Zest   1 pinch of Salt   1 Egg   1 pinch of Ginger   1 pinch of Cardamom   1 pinch of Cloves   1 pinch of Allspice   1 pinch of fresh ground white pepper   3 1/2 tbsp Milk   25g ground Almonds&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mix ingredients well and shape into small balls the size of English walnuts.      Bake 300 F for 45-50 min.      Dust with powdered sugar&lt;/td&gt;
+          &lt;td&gt;Dice the candied citron very finely. Mix the flour with baking powder in a mixing bowl. Add sugar, lemon zest, salt, egg, spices, milk, almonds and lemon. Work through the ingredients with a mixer (dough hook) first briefly at the lowest, then at the highest level. Form 2 rolls, each about 25 cm long, from the dough. Place the dough rolls wrapped in foil in the fridge for a few hours or overnight.      Cover the baking sheet with parchment paper. Preheat oven to 350 for conventional ovens or 320 for convection.      If necessary, re-shape the dough rolls, cut them into slices about 1 cm thick and place them on the baking sheet (keep the dough rolls in the fridge from time to time so that they can be easily cut). Put the baking sheet in the oven.      Insert into the middle rack for around 15 minutes.      Pull the Pfeffernüsse off the baking sheet and let them cool on a wire rack.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
     <item>
       <title>Rezept: Springerle (Anise Cookies)</title>
       <link>https://cambron.cc/recipes/2019-12-24-rezept-springerle-anise-cookies/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/recipes/2019-12-24-rezept-springerle-anise-cookies/</guid>
-      <description>&lt;p&gt;Probably the most fascinating from a chemistry standpoint, Springerle come from the Swabian tradition of alkalized baking. Here I believe that our family recipe is actually MORE accurate than Dr. Oetker (essentially the German &amp;ldquo;Betty Crocker&amp;rdquo;), as Oetker recommends using their own branded &amp;ldquo;Backin&amp;rdquo; baking powder instead of Hirschhornsalz (Hartshorn, Ammonium Carbonate, Bakers Ammonium)&lt;/p&gt;&#xA;&lt;p&gt;While obtaining Hartshorn used to be the most difficult part of making this recipe, it can now be easily obtained from Amazon.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Probably the most fascinating from a chemistry standpoint, Springerle come from the Swabian tradition of alkalized baking. Here I believe that our family recipe is actually MORE accurate than Dr. Oetker (essentially the German &amp;ldquo;Betty Crocker&amp;rdquo;), as Oetker recommends using their own branded &amp;ldquo;Backin&amp;rdquo; baking powder instead of Hirschhornsalz (Hartshorn, Ammonium Carbonate, Bakers Ammonium)&lt;/p&gt;
+&lt;p&gt;While obtaining Hartshorn used to be the most difficult part of making this recipe, it can now be easily obtained from Amazon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rezept: Spritzgebäck</title>
       <link>https://cambron.cc/recipes/2019-12-24-rezept-spritzgeback/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/recipes/2019-12-24-rezept-spritzgeback/</guid>
-      <description>&lt;p&gt;Third up and most popular around Christmas at our house are Spritzgebäck&amp;hellip;. although they have always just been called &amp;ldquo;s-cookies&amp;rdquo; in our family.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;American Recipe&lt;/th&gt;&#xA;          &lt;th&gt;German Recipe (courtesy of Dr. Oetker)&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2 1/2 cups (300g) Flour   1/2 tsp Salt   1 Cup (225g) Butter   3/4 Cup (150g) Sugar   1 Egg (or 3 Yolks)   3/4 tsp Almond Extract&lt;/td&gt;&#xA;          &lt;td&gt;500g (4.2 cups) Flour   1 pinch of Salt   250g (1.1 cups) Butter   250g (1.2 cups) Sugar   3 egg yolks (medium)   2 packets of Vanilla Sugar   Lemon or Orange Zest   2 tsp backing powder   1 tbsp Milk&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cream butter and sugar. Add egg, almond extract, flour and salt gradually. Press a small amount of dough through cookie press onto baking sheet.      Bake 400F in a conventional oven or 375F for convection for 6 to 8 Minutes.      Watch carefully that they don&amp;rsquo;t turn too brown.      &amp;ldquo;Always use butter and I often double the recipe. This has always been one of our favorite holiday cookies&amp;rdquo; - Alice Beckman&lt;/td&gt;&#xA;          &lt;td&gt;Preaheat the oven to 350 for conventional or 320 for convection.      Stir butter or margarine smoothly in a mixing bowl with a mixer (mixing attachments) at the highest setting. Gradually stir in the sugar, vanilla sugar, egg yolk, salt and lemon zest. Stir until the sugar has dissolved and a bound mass is formed. Mix the flour with the baking powder and stir in 2/3 of it alternately with the milk at medium speed. Knead in the remaining flour on the work surface.      Press the dough in small portions through a meat grinder with a special attachment, cut into pieces of any length and place on the baking sheet. Bake.      Pastries must still be light colored, do not over brown.      Insert: middle rack   Baking time: about 11 minutes&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Interestingly&amp;hellip; an older recipe card also card also called for 3 egg yolks&amp;hellip; I wonder if this was due to the high fat scares in the 70s and 80s.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Third up and most popular around Christmas at our house are Spritzgebäck&amp;hellip;. although they have always just been called &amp;ldquo;s-cookies&amp;rdquo; in our family.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;American Recipe&lt;/th&gt;
+          &lt;th&gt;German Recipe (courtesy of Dr. Oetker)&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2 1/2 cups (300g) Flour   1/2 tsp Salt   1 Cup (225g) Butter   3/4 Cup (150g) Sugar   1 Egg (or 3 Yolks)   3/4 tsp Almond Extract&lt;/td&gt;
+          &lt;td&gt;500g (4.2 cups) Flour   1 pinch of Salt   250g (1.1 cups) Butter   250g (1.2 cups) Sugar   3 egg yolks (medium)   2 packets of Vanilla Sugar   Lemon or Orange Zest   2 tsp backing powder   1 tbsp Milk&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Cream butter and sugar. Add egg, almond extract, flour and salt gradually. Press a small amount of dough through cookie press onto baking sheet.      Bake 400F in a conventional oven or 375F for convection for 6 to 8 Minutes.      Watch carefully that they don&amp;rsquo;t turn too brown.      &amp;ldquo;Always use butter and I often double the recipe. This has always been one of our favorite holiday cookies&amp;rdquo; - Alice Beckman&lt;/td&gt;
+          &lt;td&gt;Preaheat the oven to 350 for conventional or 320 for convection.      Stir butter or margarine smoothly in a mixing bowl with a mixer (mixing attachments) at the highest setting. Gradually stir in the sugar, vanilla sugar, egg yolk, salt and lemon zest. Stir until the sugar has dissolved and a bound mass is formed. Mix the flour with the baking powder and stir in 2/3 of it alternately with the milk at medium speed. Knead in the remaining flour on the work surface.      Press the dough in small portions through a meat grinder with a special attachment, cut into pieces of any length and place on the baking sheet. Bake.      Pastries must still be light colored, do not over brown.      Insert: middle rack   Baking time: about 11 minutes&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Interestingly&amp;hellip; an older recipe card also card also called for 3 egg yolks&amp;hellip; I wonder if this was due to the high fat scares in the 70s and 80s.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rezept: Zimtsterne</title>
       <link>https://cambron.cc/recipes/2019-12-23-rezept-zimtsterne/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/recipes/2019-12-23-rezept-zimtsterne/</guid>
-      <description>&lt;p&gt;Of particular interest to me, is the way in which immigrant foods, like Christmas cookies have changed to adapt to American tastes/American kitchens.&lt;/p&gt;&#xA;&lt;p&gt;Having spent considerable time baking heirloom family cookie recipes in the kitchen at Christmas with my family. I thought it would be interesting to compare my family recipes with how they now exist in modern Germany.&lt;/p&gt;&#xA;&lt;p&gt;My great aunt Alice was often considered the &amp;ldquo;master of these recipes&amp;rdquo; and helped translate some of them from German at sometime. My hope is that I can accurately provide the recipes as Alice brought them to us, but also compare them to their German counterparts.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cauliflower Crust Pizza</title>
-      <link>https://cambron.cc/...</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/...</guid>
-      <description>&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 cups of finely ground Cauliflower Rice (from one head of Cauliflower)&lt;/li&gt;&#xA;&lt;li&gt;1/4 cup parmesan cheese&lt;/li&gt;&#xA;&lt;li&gt;1/4 cup cheddar or mozzarella cheese&lt;/li&gt;&#xA;&lt;li&gt;1/4 teaspoon salt&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon basil&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon oregano&lt;/li&gt;&#xA;&lt;li&gt;1/2 teaspoon garlic powder&lt;/li&gt;&#xA;&lt;li&gt;1/8 teaspoon red chili powder&lt;/li&gt;&#xA;&lt;li&gt;2 tablespoon almond flour&lt;/li&gt;&#xA;&lt;li&gt;1 egg&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;&#xA;&lt;p&gt;Place a pizza stone in the oven. Preheat oven to 450 degrees.&lt;/p&gt;&#xA;&lt;p&gt;On a cutting board, prepare a piece of parchment paper and spray it with avocado oil.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Of particular interest to me, is the way in which immigrant foods, like Christmas cookies have changed to adapt to American tastes/American kitchens.&lt;/p&gt;
+&lt;p&gt;Having spent considerable time baking heirloom family cookie recipes in the kitchen at Christmas with my family. I thought it would be interesting to compare my family recipes with how they now exist in modern Germany.&lt;/p&gt;
+&lt;p&gt;My great aunt Alice was often considered the &amp;ldquo;master of these recipes&amp;rdquo; and helped translate some of them from German at sometime. My hope is that I can accurately provide the recipes as Alice brought them to us, but also compare them to their German counterparts.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

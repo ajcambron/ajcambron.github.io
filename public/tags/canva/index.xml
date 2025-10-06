@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Canva on Cambron.cc</title>
+    <title>Canva on cambron.cc</title>
     <link>https://cambron.cc/tags/canva/</link>
-    <description>Recent content in Canva on Cambron.cc</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Canva on cambron.cc</description>
+    <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cambron.cc/tags/canva/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,50 @@
       <link>https://cambron.cc/teaching/digcom/resources/software/adobe-clones/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/teaching/digcom/resources/software/adobe-clones/</guid>
-      <description>&lt;h1 id=&#34;alternatives-to-adobe-software&#34;&gt;Alternatives to Adobe Software&lt;/h1&gt;&#xA;&lt;p&gt;Below are alternatives to Adobe Software that can be used either online or for download&lt;/p&gt;&#xA;&lt;h3 id=&#34;photoshop---download&#34;&gt;Photoshop - Download&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.gimp.org/&#34;&gt;GIMP&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;photoshop---web-based&#34;&gt;Photoshop - Web Based&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.photopea.com/&#34;&gt;Photopea&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://pixlr.com/&#34;&gt;Pixlr&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.remove.bg/&#34;&gt;Remove&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;illustrator---web-based&#34;&gt;Illustrator - Web Based&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://vectr.com/&#34;&gt;VECTR&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vectorpea.com/&#34;&gt;Vectorpea&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://boxy-svg.com/&#34;&gt;Boxy SVG&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://designer.gravit.io/&#34;&gt;Gravit Designer&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;illustrator---download&#34;&gt;Illustrator - Download&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://inkscape.org/&#34;&gt;Inkscape&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;lightroom---web-based&#34;&gt;Lightroom - Web Based&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.fotor.com/&#34;&gt;Fotor&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;premiere---web-based&#34;&gt;Premiere - Web Based&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.adobe.com/express&#34;&gt;Adobe Express&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.canva.com/&#34;&gt;Canva&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;premiere---download&#34;&gt;Premiere - Download&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.shotcut.org/&#34;&gt;Shotcut&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;in-design---download&#34;&gt;In-Design - Download&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.scribus.net/&#34;&gt;Scribus&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;in-design---web-based&#34;&gt;In-Design - Web Based&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.canva.com/&#34;&gt;Canva&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h1 id=&#34;alternatives-to-adobe-software&#34;&gt;Alternatives to Adobe Software&lt;/h1&gt;
+&lt;p&gt;Below are alternatives to Adobe Software that can be used either online or for download&lt;/p&gt;
+&lt;h3 id=&#34;photoshop---download&#34;&gt;Photoshop - Download&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gimp.org/&#34;&gt;GIMP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;photoshop---web-based&#34;&gt;Photoshop - Web Based&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.photopea.com/&#34;&gt;Photopea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pixlr.com/&#34;&gt;Pixlr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.remove.bg/&#34;&gt;Remove&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;illustrator---web-based&#34;&gt;Illustrator - Web Based&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vectr.com/&#34;&gt;VECTR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vectorpea.com/&#34;&gt;Vectorpea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://boxy-svg.com/&#34;&gt;Boxy SVG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://designer.gravit.io/&#34;&gt;Gravit Designer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;illustrator---download&#34;&gt;Illustrator - Download&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://inkscape.org/&#34;&gt;Inkscape&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lightroom---web-based&#34;&gt;Lightroom - Web Based&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fotor.com/&#34;&gt;Fotor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;premiere---web-based&#34;&gt;Premiere - Web Based&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adobe.com/express&#34;&gt;Adobe Express&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.canva.com/&#34;&gt;Canva&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;premiere---download&#34;&gt;Premiere - Download&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.shotcut.org/&#34;&gt;Shotcut&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;in-design---download&#34;&gt;In-Design - Download&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scribus.net/&#34;&gt;Scribus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;in-design---web-based&#34;&gt;In-Design - Web Based&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.canva.com/&#34;&gt;Canva&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

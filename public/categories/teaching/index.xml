@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Teaching on Cambron.cc</title>
+    <title>Teaching on cambron.cc</title>
     <link>https://cambron.cc/categories/teaching/</link>
-    <description>Recent content in Teaching on Cambron.cc</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Teaching on cambron.cc</description>
+    <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cambron.cc/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,9 @@
       <link>https://cambron.cc/teaching/pedagogy/2020-08-08-auf-dem-weg-high-school-german/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/teaching/pedagogy/2020-08-08-auf-dem-weg-high-school-german/</guid>
-      <description>&lt;p&gt;A project that I have been stewing on for a long time is now being realized due to the passion of a dedicated group of High School teachers.&lt;/p&gt;&#xA;&lt;p&gt;To check out the project on Rebus Community &lt;a href=&#34;https://www1.rebus.community/#/project/601026e8-cc26-4e2b-915f-017ea1ed13c1&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/aufdemweg-819x1024.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;A project that I have been stewing on for a long time is now being realized due to the passion of a dedicated group of High School teachers.&lt;/p&gt;
+&lt;p&gt;To check out the project on Rebus Community &lt;a href=&#34;https://www1.rebus.community/#/project/601026e8-cc26-4e2b-915f-017ea1ed13c1&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/aufdemweg-819x1024.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,13 @@
 baseURL = 'https://cambron.cc'
 enableEmoji = true
 languageCode = 'en-us'
-title = 'Cambron.cc'
+title = 'cambron.cc'
 tableOfContents = true
-theme = "PaperMod"
+# 1. EXPLICITLY IMPORT THE MODULE
+[module]
+  imports = [
+    {path = 'github.com/adityatelange/hugo-PaperMod'}
+  ]
 
 # ----------------------------------------------------
 # 1. TAXONOMIES: Define 'category' and 'tag' for grouping content.

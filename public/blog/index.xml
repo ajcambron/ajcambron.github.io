@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogs on Cambron.cc</title>
+    <title>Blogs on cambron.cc</title>
     <link>https://cambron.cc/blog/</link>
-    <description>Recent content in Blogs on Cambron.cc</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Blogs on cambron.cc</description>
+    <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <atom:link href="https://cambron.cc/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,15 @@
       <link>https://cambron.cc/blog/radiostations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cambron.cc/blog/radiostations/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://streams.kcrw.com/kcrw_mp3&#34;&gt;https://streams.kcrw.com/kcrw_mp3&lt;/a&gt; - KCRW&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wxpn.xpn.org/xpnmp3hi&#34;&gt;https://wxpn.xpn.org/xpnmp3hi&lt;/a&gt; - WXPN&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wxpn.xpn.org/xpn2mp3hi&#34;&gt;https://wxpn.xpn.org/xpn2mp3hi&lt;/a&gt; - XPN2&lt;/p&gt;&#xA;&lt;p&gt;http://209.133.221.250:8096/stream - WFHB&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mediaserviceslive.akamaized.net/hls/live/2108541/abcextra/v0-221.m3u8&#34;&gt;https://mediaserviceslive.akamaized.net/hls/live/2108541/abcextra/v0-221.m3u8&lt;/a&gt; - ABC Kids&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mediaserviceslive.akamaized.net/hls/live/2109418/localnewcastle/v0-221.m3u8&#34;&gt;https://mediaserviceslive.akamaized.net/hls/live/2109418/localnewcastle/v0-221.m3u8&lt;/a&gt; - ABC Newcastle&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://streaming.radio.co/seac6e5991/listen&#34;&gt;https://streaming.radio.co/seac6e5991/listen&lt;/a&gt; - Inhaler Radio&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://freshgrass.streamguys1.com/folkalley-128mp3&#34;&gt;https://freshgrass.streamguys1.com/folkalley-128mp3&lt;/a&gt; - Folk Alley&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://whyy.streamguys1.com/whyy_tunein&#34;&gt;https://whyy.streamguys1.com/whyy_tunein&lt;/a&gt; - WHYY&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://streams.kcrw.com/kcrw_mp3&#34;&gt;https://streams.kcrw.com/kcrw_mp3&lt;/a&gt; - KCRW&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wxpn.xpn.org/xpnmp3hi&#34;&gt;https://wxpn.xpn.org/xpnmp3hi&lt;/a&gt; - WXPN&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wxpn.xpn.org/xpn2mp3hi&#34;&gt;https://wxpn.xpn.org/xpn2mp3hi&lt;/a&gt; - XPN2&lt;/p&gt;
+&lt;p&gt;http://209.133.221.250:8096/stream - WFHB&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mediaserviceslive.akamaized.net/hls/live/2108541/abcextra/v0-221.m3u8&#34;&gt;https://mediaserviceslive.akamaized.net/hls/live/2108541/abcextra/v0-221.m3u8&lt;/a&gt; - ABC Kids&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mediaserviceslive.akamaized.net/hls/live/2109418/localnewcastle/v0-221.m3u8&#34;&gt;https://mediaserviceslive.akamaized.net/hls/live/2109418/localnewcastle/v0-221.m3u8&lt;/a&gt; - ABC Newcastle&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://streaming.radio.co/seac6e5991/listen&#34;&gt;https://streaming.radio.co/seac6e5991/listen&lt;/a&gt; - Inhaler Radio&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://freshgrass.streamguys1.com/folkalley-128mp3&#34;&gt;https://freshgrass.streamguys1.com/folkalley-128mp3&lt;/a&gt; - Folk Alley&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://whyy.streamguys1.com/whyy_tunein&#34;&gt;https://whyy.streamguys1.com/whyy_tunein&lt;/a&gt; - WHYY&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

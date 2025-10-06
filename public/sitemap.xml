@@ -50,10 +50,10 @@
     <loc>https://cambron.cc/tags/instant-pot/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cambron.cc/recipes/</loc>
+    <loc>https://cambron.cc/categories/recipes/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cambron.cc/categories/recipes/</loc>
+    <loc>https://cambron.cc/recipes/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cambron.cc/recipes/2022-12-23-raclette/</loc>
@@ -104,6 +104,21 @@
     <loc>https://cambron.cc/tags/salsa/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cambron.cc/categories/baking/</loc>
+    <lastmod>2020-03-01T10:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://cambron.cc/recipes/2020-03-01-cauliflower-pizza/</loc>
+    <lastmod>2020-03-01T10:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://cambron.cc/categories/dough/</loc>
+    <lastmod>2020-03-01T10:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://cambron.cc/tags/pepperoni/</loc>
+    <lastmod>2020-03-01T10:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://cambron.cc/tags/pizza/</loc>
+    <lastmod>2020-03-01T10:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://cambron.cc/teaching/pedagogy/2020-02-06-creative-commons-certificate-unit-2/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -141,16 +156,6 @@
   </url><url>
     <loc>https://cambron.cc/about/</loc>
   </url><url>
-    <loc>https://cambron.cc/categories/baking/</loc>
-  </url><url>
     <loc>https://cambron.cc/blog/</loc>
-  </url><url>
-    <loc>https://cambron.cc/...</loc>
-  </url><url>
-    <loc>https://cambron.cc/categories/dough/</loc>
-  </url><url>
-    <loc>https://cambron.cc/tags/pepperoni/</loc>
-  </url><url>
-    <loc>https://cambron.cc/tags/pizza/</loc>
   </url>
 </urlset>

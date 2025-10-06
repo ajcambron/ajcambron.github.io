@@ -6,7 +6,6 @@ type: Page
 ---
 ## Table of Contents
 
-{{< toc >}}
 
 ## Intro
 This spring my goal has been to dive head first into creating content for my German classroom. However my biggest concern in doing so was ensuring that my labor was being utilized to create works that could benefit students and teachers outside of my classroom.

@@ -7,17 +7,8 @@ categories:
   - "hobbies"
 ---
 
-<figure>
+{{< figure src="/images/recipes/RyeBeauty.jpg" title="Rye Beauty" caption="The finished bread after a day of resting. (Attempt 1)" width="50%" >}}
 
-![](images/PXL_20210214_140211696.PORTRAIT-768x1024.jpg)
-
-<figcaption>
-
-The finished bread after a day of resting. (Attempt 1)
-
-</figcaption>
-
-</figure>
 
 One of things that I miss the most about living in Germany is the incredible variety of breads that just aren't available in the United States.
 
@@ -44,7 +35,7 @@ Cover the Sauerteig with plastic wrap and let it mature in a warm place. About 1
 
 When the dough is ripe it will be foamy.. too dense to pour, but too thin to knead. (Hence why it is often called sponge in US recipes)
 
-https://www.youtube.com/watch?v=m56T1QzZLjI
+[A video explainer](https://www.youtube.com/watch?v=m56T1QzZLjI)
 
 ### Dinkelmehl-Vorteig (like a biga)
 
@@ -69,7 +60,7 @@ Then add 350g of Dark Rye Flour and 11g salt. (Adjust water and flour to get a t
 
 Also consider adding Brotgewürz (bread seasoning) to dial in the flavor of rye bread you are looking to bake. Common spices used in rye bread include Caraway, Anise, Fennel, and Coriander. Recipes online suggest a variety of ratios; I recommend baking the bread first without spice, and then playing with your ratios after you feel confident making a solid rye bread.
 
-## Teigruhe
+## Teigruhe (Dough-Rest)
 
 Let the dough rest for 1 hour in a 70-80 degree room. Then shape into a round loaf on a board dusted with flour, dusting the dough and your hands with plenty of flour as well. Fold gently from the sides and do not knead the dough.
 
@@ -83,30 +74,15 @@ In the meantime, preheat the oven to 500 degrees. While doing so place a baking 
   
 Turn bread out on to parchment paper on a sheet or peel, then shake bread onto pizza steel or baking stone.
 
-<figure>
+{{< figure src="/images/recipes/Rye_PreBake.jpg" title="Rye Beauty" caption="After the dough has rested flip it out onto a sheet of parchment (Attempt 2)" width="50%" >}}
 
-![](images/PXL_20210215_203652014.PORTRAIT-768x1024.jpg)
 
-<figcaption>
-
-After the dough has rested flip it out onto a sheet of parchment (Attempt 2)
-
-</figcaption>
-
-</figure>
 
 Bake for 55 minutes. Open the oven door every 10 minutes or so (3-4 times during the bake) to let out moisture. This allows the crust to form and seal in moisture.
 
 Let the bread sit for 1-4 days before cutting to allow the flavors to mature.
 
-<figure>
+{{< figure src="/images/recipes/Rye_PreBake.jpg" title="Rye Beauty" caption="After the dough has rested flip it out onto a sheet of parchment (Attempt 2)" width="50%" >}}
 
-![](images/PXL_20210215_215646399-768x1024.jpg)
+{{< figure src="/images/recipes/RyeCrumb.jpg" title="Rye Beauty" caption="Let Rest and Enjoy" width="50%" >}}
 
-<figcaption>
-
-Let rest and enjoy!
-
-</figcaption>
-
-</figure>

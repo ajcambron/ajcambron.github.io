@@ -9,19 +9,17 @@ tags:
   - "salsa"
 ---
 
-<figure>
 
-![](images/IMG_20200104_180759_01-768x1024.jpg)
+{{< figure src="/images/recipes/SalsaJar.jpg" title="Optional Title Here" caption="Smoky spicy goodness" width="50%" >}}
 
-<figcaption>
 
-Smoky spicy goodness
 
-</figcaption>
 
-</figure>
 
 My attempt at making a tomatillo salsa with easily acquirable ingredients that is a consistent favorite!
+
+
+
 
 ## Ingredients
 
