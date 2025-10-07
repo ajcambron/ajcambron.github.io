@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Recipes on cambron.cc</title>
-    <link>https://cambron.cc/blog/recipes/</link>
+    <link>http://localhost:1313/blog/recipes/</link>
     <description>Recent content in Recipes on cambron.cc</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cambron.cc/blog/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/recipes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chicken Biriyani - Instant Pot</title>
-      <link>https://cambron.cc/blog/recipes/2023-03-11-chicken-biriyani/</link>
+      <link>http://localhost:1313/blog/recipes/2023-03-11-chicken-biriyani/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/recipes/2023-03-11-chicken-biriyani/</guid>
+      <guid>http://localhost:1313/blog/recipes/2023-03-11-chicken-biriyani/</guid>
       <description>&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;
 &lt;h4 id=&#34;marinade&#34;&gt;Marinade&lt;/h4&gt;
 &lt;ul&gt;
@@ -51,29 +51,29 @@
     </item>
     <item>
       <title>Raclette</title>
-      <link>https://cambron.cc/blog/recipes/2022-12-23-raclette/</link>
+      <link>http://localhost:1313/blog/recipes/2022-12-23-raclette/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/recipes/2022-12-23-raclette/</guid>
+      <guid>http://localhost:1313/blog/recipes/2022-12-23-raclette/</guid>
       <description>&lt;p&gt;At its simplest Raclette is a soft alpine cheese that is traditionally served melted, over boiled potatoes.&lt;/p&gt;
 &lt;p&gt;However, the practice of using a tabletop grill to melt Raclette cheese and prepare a variety of other foods is a popular winter past-time across the German speaking world.&lt;/p&gt;
 &lt;p&gt;As with many other Americans however, the world of Raclette is still somewhat foreign. The &amp;ldquo;pack in the box&amp;rdquo; instructions that accompany American Raclette grills sell short this lovely way of grazing over melted cheese and meats. And while I preface any directions that follow with the disclosure that, &amp;ldquo;there is no wrong way to use a Raclette grill,&amp;rdquo; I have certainly had Raclette nights go better than others, and my hope is to catalog which approaches work best.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jim Lahey&#39;s No Knead Bread ala Cambron</title>
-      <link>https://cambron.cc/blog/recipes/2021-02-20-jim-laheys-no-knead-bread-ala-cambron/</link>
+      <link>http://localhost:1313/blog/recipes/2021-02-20-jim-laheys-no-knead-bread-ala-cambron/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/recipes/2021-02-20-jim-laheys-no-knead-bread-ala-cambron/</guid>
+      <guid>http://localhost:1313/blog/recipes/2021-02-20-jim-laheys-no-knead-bread-ala-cambron/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IMG_0092-768x1024.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Baking bread was more or less an accident. My father bakes bread, my friends bake bread, and for the last few years I&amp;rsquo;ve been trying to eat low carb. Somehow I thought I&amp;rsquo;d avoid the bug&amp;hellip;&lt;/p&gt;
 &lt;p&gt;This recipe is probably the most popular white bread recipe on the internet, and there are already a LOT of variations on this recipe. My suggestions are limited, and already available on various comment threads. This recipe is mostly so that I don&amp;rsquo;t forget!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rye Bread (Roggenmischbrot 2:1)</title>
-      <link>https://cambron.cc/blog/recipes/2021-02-07-rye-bread-roggenmischbrot-21/</link>
+      <link>http://localhost:1313/blog/recipes/2021-02-07-rye-bread-roggenmischbrot-21/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/recipes/2021-02-07-rye-bread-roggenmischbrot-21/</guid>
+      <guid>http://localhost:1313/blog/recipes/2021-02-07-rye-bread-roggenmischbrot-21/</guid>
       <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://cambron.cc/images/recipes/RyeBeauty.jpg&#34;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/recipes/RyeBeauty.jpg&#34;
          alt=&#34;The finished bread after a day of resting. (Attempt 1)&#34; width=&#34;50%&#34;/&gt; &lt;figcaption&gt;
             Rye Beauty&lt;p&gt;The finished bread after a day of resting. (Attempt 1)&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -84,9 +84,9 @@
     </item>
     <item>
       <title>Australian Sausage Rolls</title>
-      <link>https://cambron.cc/blog/recipes/2020-11-25-australian-sausage-rolls/</link>
+      <link>http://localhost:1313/blog/recipes/2020-11-25-australian-sausage-rolls/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/recipes/2020-11-25-australian-sausage-rolls/</guid>
+      <guid>http://localhost:1313/blog/recipes/2020-11-25-australian-sausage-rolls/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IMG_20201010_212919_568-767x1024.jpg&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h4&gt;
 &lt;h5 id=&#34;meat&#34;&gt;Meat&lt;/h5&gt;
@@ -118,9 +118,9 @@ Ketchup&lt;/p&gt;</description>
     </item>
     <item>
       <title>Punky German Beer Cheese (Obazda)</title>
-      <link>https://cambron.cc/blog/recipes/2020-05-06-punky-german-beer-cheese-obazda/</link>
+      <link>http://localhost:1313/blog/recipes/2020-05-06-punky-german-beer-cheese-obazda/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/recipes/2020-05-06-punky-german-beer-cheese-obazda/</guid>
+      <guid>http://localhost:1313/blog/recipes/2020-05-06-punky-german-beer-cheese-obazda/</guid>
       <description>&lt;p&gt;One of my favorite parts of enjoying a German Biergarten in the summer is the onion covered cheese spread that goes on a crusty Bavarian pretzel.&lt;/p&gt;
 &lt;p&gt;Here is my recipe for Obazda, using readily available ingredients in the USA&lt;/p&gt;
 &lt;h4 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h4&gt;
@@ -135,11 +135,11 @@ Salt and Pepper&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quick and Easy Hot Tomatillo Salsa</title>
-      <link>https://cambron.cc/blog/recipes/2020-03-27-quick-and-easy-hot-tomatillo-salsa/</link>
+      <link>http://localhost:1313/blog/recipes/2020-03-27-quick-and-easy-hot-tomatillo-salsa/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/recipes/2020-03-27-quick-and-easy-hot-tomatillo-salsa/</guid>
+      <guid>http://localhost:1313/blog/recipes/2020-03-27-quick-and-easy-hot-tomatillo-salsa/</guid>
       <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://cambron.cc/images/recipes/SalsaJar.jpg&#34;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/recipes/SalsaJar.jpg&#34;
          alt=&#34;Smoky spicy goodness&#34; width=&#34;50%&#34;/&gt; &lt;figcaption&gt;
             Optional Title Here&lt;p&gt;Smoky spicy goodness&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -157,16 +157,16 @@ juice from 1/2 lime&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cauliflower Crust Pizza</title>
-      <link>https://cambron.cc/blog/recipes/2020-03-01-cauliflower-pizza/</link>
+      <link>http://localhost:1313/blog/recipes/2020-03-01-cauliflower-pizza/</link>
       <pubDate>Sun, 01 Mar 2020 10:00:00 -0500</pubDate>
-      <guid>https://cambron.cc/blog/recipes/2020-03-01-cauliflower-pizza/</guid>
+      <guid>http://localhost:1313/blog/recipes/2020-03-01-cauliflower-pizza/</guid>
       <description>a delicious Cauliflower Pizza crust</description>
     </item>
     <item>
       <title>REZEPT: Pfeffernüsse</title>
-      <link>https://cambron.cc/blog/recipes/2019-12-24-rezept-pfeffernusse/</link>
+      <link>http://localhost:1313/blog/recipes/2019-12-24-rezept-pfeffernusse/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/recipes/2019-12-24-rezept-pfeffernusse/</guid>
+      <guid>http://localhost:1313/blog/recipes/2019-12-24-rezept-pfeffernusse/</guid>
       <description>&lt;p&gt;The next recipe recipe I want to look at is for Pfeffernüsse&amp;hellip; This is a case where our recipe has drifted very far from the German interpretation, but they still remain a popular staple at Christmas time&amp;hellip; Oddly the recipe card I was given reads &amp;ldquo;Neusenfefferson&amp;rdquo;&amp;hellip; which I can only assume was a mistake. Google yields no results for Neusenfefferson.&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -189,17 +189,17 @@ juice from 1/2 lime&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rezept: Springerle (Anise Cookies)</title>
-      <link>https://cambron.cc/blog/recipes/2019-12-24-rezept-springerle-anise-cookies/</link>
+      <link>http://localhost:1313/blog/recipes/2019-12-24-rezept-springerle-anise-cookies/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/recipes/2019-12-24-rezept-springerle-anise-cookies/</guid>
+      <guid>http://localhost:1313/blog/recipes/2019-12-24-rezept-springerle-anise-cookies/</guid>
       <description>&lt;p&gt;Probably the most fascinating from a chemistry standpoint, Springerle come from the Swabian tradition of alkalized baking. Here I believe that our family recipe is actually MORE accurate than Dr. Oetker (essentially the German &amp;ldquo;Betty Crocker&amp;rdquo;), as Oetker recommends using their own branded &amp;ldquo;Backin&amp;rdquo; baking powder instead of Hirschhornsalz (Hartshorn, Ammonium Carbonate, Bakers Ammonium)&lt;/p&gt;
 &lt;p&gt;While obtaining Hartshorn used to be the most difficult part of making this recipe, it can now be easily obtained from Amazon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rezept: Spritzgebäck</title>
-      <link>https://cambron.cc/blog/recipes/2019-12-24-rezept-spritzgeback/</link>
+      <link>http://localhost:1313/blog/recipes/2019-12-24-rezept-spritzgeback/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/recipes/2019-12-24-rezept-spritzgeback/</guid>
+      <guid>http://localhost:1313/blog/recipes/2019-12-24-rezept-spritzgeback/</guid>
       <description>&lt;p&gt;Third up and most popular around Christmas at our house are Spritzgebäck&amp;hellip;. although they have always just been called &amp;ldquo;s-cookies&amp;rdquo; in our family.&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -223,9 +223,9 @@ juice from 1/2 lime&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rezept: Zimtsterne</title>
-      <link>https://cambron.cc/blog/recipes/2019-12-23-rezept-zimtsterne/</link>
+      <link>http://localhost:1313/blog/recipes/2019-12-23-rezept-zimtsterne/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/recipes/2019-12-23-rezept-zimtsterne/</guid>
+      <guid>http://localhost:1313/blog/recipes/2019-12-23-rezept-zimtsterne/</guid>
       <description>&lt;p&gt;Of particular interest to me, is the way in which immigrant foods, like Christmas cookies have changed to adapt to American tastes/American kitchens.&lt;/p&gt;
 &lt;p&gt;Having spent considerable time baking heirloom family cookie recipes in the kitchen at Christmas with my family. I thought it would be interesting to compare my family recipes with how they now exist in modern Germany.&lt;/p&gt;
 &lt;p&gt;My great aunt Alice was often considered the &amp;ldquo;master of these recipes&amp;rdquo; and helped translate some of them from German at sometime. My hope is that I can accurately provide the recipes as Alice brought them to us, but also compare them to their German counterparts.&lt;/p&gt;</description>

@@ -2,33 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Teaching on cambron.cc</title>
-    <link>https://cambron.cc/blog/pedagogy/</link>
+    <link>http://localhost:1313/blog/pedagogy/</link>
     <description>Recent content in Teaching on cambron.cc</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cambron.cc/blog/pedagogy/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Timeline: US Curriculum 1893-1958</title>
-      <link>https://cambron.cc/blog/pedagogy/2021-07-06-timeline-us-curriculum-1893-1958/</link>
-      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/pedagogy/2021-07-06-timeline-us-curriculum-1893-1958/</guid>
-      <description>&lt;p&gt;[h5p id=&amp;ldquo;1&amp;rdquo;]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Auf dem Weg! High School German</title>
-      <link>https://cambron.cc/blog/pedagogy/2020-08-08-auf-dem-weg-high-school-german/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/pedagogy/2020-08-08-auf-dem-weg-high-school-german/</guid>
-      <description>&lt;p&gt;A project that I have been stewing on for a long time is now being realized due to the passion of a dedicated group of High School teachers.&lt;/p&gt;
-&lt;p&gt;To check out the project on Rebus Community &lt;a href=&#34;https://www1.rebus.community/#/project/601026e8-cc26-4e2b-915f-017ea1ed13c1&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/aufdemweg-819x1024.png&#34;&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/pedagogy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creative Commons Certificate - Unit 2</title>
-      <link>https://cambron.cc/blog/pedagogy/2020-02-06-creative-commons-certificate-unit-2/</link>
+      <link>http://localhost:1313/blog/pedagogy/2020-02-06-creative-commons-certificate-unit-2/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/pedagogy/2020-02-06-creative-commons-certificate-unit-2/</guid>
+      <guid>http://localhost:1313/blog/pedagogy/2020-02-06-creative-commons-certificate-unit-2/</guid>
       <description>&lt;p&gt;In many ways this unit felt like the logical conclusion of the previous one. We dove into why copyright exists, and how the CC lives within the framework established by international copyright law.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0fdUDecJ6jc&#34;&gt;https://www.youtube.com/watch?v=0fdUDecJ6jc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Here I made a video outlining the basics of Copyright and other IP protections: &lt;/p&gt;
@@ -36,9 +20,9 @@
     </item>
     <item>
       <title>Creative Commons Certificate - Unit 1</title>
-      <link>https://cambron.cc/blog/pedagogy/2020-01-20-creative-commons-certificate-unit-1/</link>
+      <link>http://localhost:1313/blog/pedagogy/2020-01-20-creative-commons-certificate-unit-1/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/pedagogy/2020-01-20-creative-commons-certificate-unit-1/</guid>
+      <guid>http://localhost:1313/blog/pedagogy/2020-01-20-creative-commons-certificate-unit-1/</guid>
       <description>&lt;p&gt;This week I&amp;rsquo;m beginning licensing through the Creative Commons and I wanted to use this blog post to collect my thoughts and ideas from the process.&lt;/p&gt;
 &lt;h2 id=&#34;course-design-and-apps&#34;&gt;Course Design and Apps&lt;/h2&gt;
 &lt;p&gt;While taking the course, probably the thing that struck me first was the way the course was structured, and the way course was designed, and the learning apps it utilizes. Here are a few that have been part of the course, that I am interested to learn more about.&lt;/p&gt;</description>

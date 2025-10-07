@@ -4,5 +4,5 @@ author: Andrew Cambron
 type: Page
 ---
 
-Ethnographic Filmmaking Methods and Praxis
+Ethnographic Filmmaking Theory and Praxis
 

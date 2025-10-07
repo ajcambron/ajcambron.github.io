@@ -30,7 +30,8 @@ tableOfContents = true
   disableHLJS = true # Disable Highlight.js if you use default Hugo Chroma
   disableScrollBarStyle = true
 
-[params.socialIcons]
+# === Social Icons ===
+[[params.socialIcons]] # Notice the double brackets for an array entry
     name = "email"
     url = "mailto:fake@fake.fake"
 
@@ -49,6 +50,10 @@ tableOfContents = true
   name = "CV"
   url = "/cv/"
   weight = 30
+[[menu.main]]
+  name = "Projects"
+  url = "projects/"
+  weight = 35
 [[menu.main]]
   name = "Blog"
   url = "blog/"

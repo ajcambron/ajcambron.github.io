@@ -2,115 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on cambron.cc</title>
-    <link>https://cambron.cc/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on cambron.cc</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cambron.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adobe Express</title>
-      <link>https://cambron.cc/tags/adobe-express/</link>
+      <link>http://localhost:1313/tags/adobe-express/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/tags/adobe-express/</guid>
+      <guid>http://localhost:1313/tags/adobe-express/</guid>
       <description></description>
     </item>
     <item>
       <title>Canva</title>
-      <link>https://cambron.cc/tags/canva/</link>
+      <link>http://localhost:1313/tags/canva/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/tags/canva/</guid>
+      <guid>http://localhost:1313/tags/canva/</guid>
       <description></description>
     </item>
     <item>
       <title>Graphic Design</title>
-      <link>https://cambron.cc/tags/graphic-design/</link>
+      <link>http://localhost:1313/tags/graphic-design/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/tags/graphic-design/</guid>
+      <guid>http://localhost:1313/tags/graphic-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Resolution</title>
-      <link>https://cambron.cc/tags/resolution/</link>
+      <link>http://localhost:1313/tags/resolution/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/tags/resolution/</guid>
+      <guid>http://localhost:1313/tags/resolution/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>https://cambron.cc/tags/software/</link>
+      <link>http://localhost:1313/tags/software/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/tags/software/</guid>
+      <guid>http://localhost:1313/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Documentary</title>
+      <link>http://localhost:1313/tags/documentary/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/documentary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethnography</title>
+      <link>http://localhost:1313/tags/ethnography/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/ethnography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filmmaking</title>
+      <link>http://localhost:1313/tags/filmmaking/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/filmmaking/</guid>
       <description></description>
     </item>
     <item>
       <title>Instant Pot</title>
-      <link>https://cambron.cc/tags/instant-pot/</link>
+      <link>http://localhost:1313/tags/instant-pot/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/tags/instant-pot/</guid>
+      <guid>http://localhost:1313/tags/instant-pot/</guid>
       <description></description>
     </item>
     <item>
       <title>Mexican</title>
-      <link>https://cambron.cc/tags/mexican/</link>
+      <link>http://localhost:1313/tags/mexican/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/tags/mexican/</guid>
+      <guid>http://localhost:1313/tags/mexican/</guid>
       <description></description>
     </item>
     <item>
       <title>Salsa</title>
-      <link>https://cambron.cc/tags/salsa/</link>
+      <link>http://localhost:1313/tags/salsa/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/tags/salsa/</guid>
+      <guid>http://localhost:1313/tags/salsa/</guid>
       <description></description>
     </item>
     <item>
       <title>Pepperoni</title>
-      <link>https://cambron.cc/tags/pepperoni/</link>
+      <link>http://localhost:1313/tags/pepperoni/</link>
       <pubDate>Sun, 01 Mar 2020 10:00:00 -0500</pubDate>
-      <guid>https://cambron.cc/tags/pepperoni/</guid>
+      <guid>http://localhost:1313/tags/pepperoni/</guid>
       <description></description>
     </item>
     <item>
       <title>Pizza</title>
-      <link>https://cambron.cc/tags/pizza/</link>
+      <link>http://localhost:1313/tags/pizza/</link>
       <pubDate>Sun, 01 Mar 2020 10:00:00 -0500</pubDate>
-      <guid>https://cambron.cc/tags/pizza/</guid>
+      <guid>http://localhost:1313/tags/pizza/</guid>
       <description></description>
     </item>
     <item>
       <title>Baking</title>
-      <link>https://cambron.cc/tags/baking/</link>
+      <link>http://localhost:1313/tags/baking/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/tags/baking/</guid>
+      <guid>http://localhost:1313/tags/baking/</guid>
       <description></description>
     </item>
     <item>
       <title>Christmas</title>
-      <link>https://cambron.cc/tags/christmas/</link>
+      <link>http://localhost:1313/tags/christmas/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/tags/christmas/</guid>
+      <guid>http://localhost:1313/tags/christmas/</guid>
       <description></description>
     </item>
     <item>
       <title>Cookies</title>
-      <link>https://cambron.cc/tags/cookies/</link>
+      <link>http://localhost:1313/tags/cookies/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/tags/cookies/</guid>
+      <guid>http://localhost:1313/tags/cookies/</guid>
       <description></description>
     </item>
     <item>
       <title>German</title>
-      <link>https://cambron.cc/tags/german/</link>
+      <link>http://localhost:1313/tags/german/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/tags/german/</guid>
+      <guid>http://localhost:1313/tags/german/</guid>
       <description></description>
     </item>
     <item>
       <title>Recipe</title>
-      <link>https://cambron.cc/tags/recipe/</link>
+      <link>http://localhost:1313/tags/recipe/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/tags/recipe/</guid>
+      <guid>http://localhost:1313/tags/recipe/</guid>
       <description></description>
     </item>
   </channel>

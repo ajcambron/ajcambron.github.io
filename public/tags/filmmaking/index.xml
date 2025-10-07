@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Filmmaking on cambron.cc</title>
+    <link>http://localhost:1313/tags/filmmaking/</link>
+    <description>Recent content in Filmmaking on cambron.cc</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 10:00:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/filmmaking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Driven</title>
+      <link>http://localhost:1313/projects/driven/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/projects/driven/</guid>
+      <description>A brief, compelling description of the project that will appear on the projects list page, like a project card&amp;rsquo;s blurb.</description>
+    </item>
+  </channel>
+</rss>

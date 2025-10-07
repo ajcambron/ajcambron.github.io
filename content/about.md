@@ -1,7 +1,6 @@
 ---
 title: Andrew Cambron
 title: "About"
-author: Andrew Cambron
 type: Page
 ---
 

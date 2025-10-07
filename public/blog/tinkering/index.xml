@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on cambron.cc</title>
-    <link>https://cambron.cc/blog/tinkering/</link>
+    <link>http://localhost:1313/blog/tinkering/</link>
     <description>Recent content in Projects on cambron.cc</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
-    <atom:link href="https://cambron.cc/blog/tinkering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tinkering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Radio Stations</title>
-      <link>https://cambron.cc/blog/tinkering/radiostations/</link>
+      <link>http://localhost:1313/blog/tinkering/radiostations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cambron.cc/blog/tinkering/radiostations/</guid>
+      <guid>http://localhost:1313/blog/tinkering/radiostations/</guid>
       <description>&lt;h2 id=&#34;favorite-internet-radio-stations&#34;&gt;Favorite Internet Radio Stations&lt;/h2&gt;
 &lt;p&gt;These are the station streams I use to serve content to my Moode.Audio build.&lt;/p&gt;
 &lt;h2 id=&#34;station-streams&#34;&gt;Station Streams&lt;/h2&gt;
@@ -23,7 +23,8 @@
 &lt;p&gt;&lt;a href=&#34;https://mediaserviceslive.akamaized.net/hls/live/2109418/localnewcastle/v0-221.m3u8&#34;&gt;https://mediaserviceslive.akamaized.net/hls/live/2109418/localnewcastle/v0-221.m3u8&lt;/a&gt; - ABC Newcastle&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://streaming.radio.co/seac6e5991/listen&#34;&gt;https://streaming.radio.co/seac6e5991/listen&lt;/a&gt; - Inhaler Radio&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://freshgrass.streamguys1.com/folkalley-128mp3&#34;&gt;https://freshgrass.streamguys1.com/folkalley-128mp3&lt;/a&gt; - Folk Alley&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whyy.streamguys1.com/whyy_tunein&#34;&gt;https://whyy.streamguys1.com/whyy_tunein&lt;/a&gt; - WHYY&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://whyy.streamguys1.com/whyy_tunein&#34;&gt;https://whyy.streamguys1.com/whyy_tunein&lt;/a&gt; - WHYY&lt;/p&gt;
+&lt;p&gt;More to come!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
