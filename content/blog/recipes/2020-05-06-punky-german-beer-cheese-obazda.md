@@ -9,22 +9,20 @@ Here is my recipe for Obazda, using readily available ingredients in the USA
 
 #### Ingredients
 
-250g Camembert (let ripen! the stinkier the better!)  
-20g (2 tbsp) Butter  
-100g (half a package) Philadelphia cream cheese (Frischkäse if available)  
-50g (half a small onion) finely chopped onion (cut in half to create rings)  
-1 tsp Caroway seed (or more to taste)  
-1/4 cup of beer. Preferably a German lager (Spaten, Hacker Pschorr, or Augustiner if you are so lucky)  
-Paprika (mixed in until you get the desireable orange color and flavor)  
-Salt and Pepper  
+- 250g Camembert (let ripen! the stinkier the better!)  
+- 20g (2 tbsp) Butter  
+- 100g (half a package) Philadelphia cream cheese (Frischkäse if available)  
+- 50g (half a small onion) finely chopped onion (cut in half to create rings)  
+- 1 tsp Caroway seed (or more to taste)  
+- 1/4 cup of beer. Preferably a German lager (Spaten, Hacker Pschorr, or Augustiner if you are so lucky)  
+- Paprika (mixed in until you get the desireable orange color and flavor)  
+- Salt and Pepper  
   
-Garnish with chives and onion, cut into rings.
+*Garnish with chives and onion, cut into rings.*
 
 #### Directions
 
-Mix the butter and cheeses together with the back of a spoon.  
-Next add onion, Caroway and beers, stirring after each addition
-
-Continue to season with Caroway, Paprika, salt and pepper until you get the desired flavor.
-
-Add your chives and onion, and plate with a crusty pretzel or fresh bread.
+1. Mix the butter and cheeses together with the back of a spoon.  
+2. Next add onion, Caroway and beers, stirring after each addition
+3. Continue to season with Caroway, Paprika, salt and pepper until you get the desired flavor.
+4. Add your chives and onion, and plate with a crusty pretzel or fresh bread.

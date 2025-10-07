@@ -13,7 +13,13 @@
       <link>http://localhost:1313/blog/recipes/2021-02-20-jim-laheys-no-knead-bread-ala-cambron/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/recipes/2021-02-20-jim-laheys-no-knead-bread-ala-cambron/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IMG_0092-768x1024.jpg&#34;&gt;&lt;/p&gt;
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/recipes/LaheyBread.jpg&#34;
+         alt=&#34;Lahey, lahey lay&amp;hellip;&#34; width=&#34;50%&#34;/&gt; &lt;figcaption&gt;
+            Loafin&amp;#39;&lt;p&gt;Lahey, lahey lay&amp;hellip;&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;Baking bread was more or less an accident. My father bakes bread, my friends bake bread, and for the last few years I&amp;rsquo;ve been trying to eat low carb. Somehow I thought I&amp;rsquo;d avoid the bug&amp;hellip;&lt;/p&gt;
 &lt;p&gt;This recipe is probably the most popular white bread recipe on the internet, and there are already a LOT of variations on this recipe. My suggestions are limited, and already available on various comment threads. This recipe is mostly so that I don&amp;rsquo;t forget!&lt;/p&gt;</description>
     </item>
@@ -40,7 +46,7 @@
       <description>&lt;figure&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/recipes/SalsaJar.jpg&#34;
          alt=&#34;Smoky spicy goodness&#34; width=&#34;50%&#34;/&gt; &lt;figcaption&gt;
-            Optional Title Here&lt;p&gt;Smoky spicy goodness&lt;/p&gt;
+            The Final Product&lt;p&gt;Smoky spicy goodness&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 

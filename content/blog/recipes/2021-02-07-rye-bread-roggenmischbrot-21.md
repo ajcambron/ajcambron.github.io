@@ -74,7 +74,7 @@ In the meantime, preheat the oven to 500 degrees. While doing so place a baking 
   
 Turn bread out on to parchment paper on a sheet or peel, then shake bread onto pizza steel or baking stone.
 
-{{< figure src="/images/recipes/Rye_PreBake.jpg" title="Rye Beauty" caption="After the dough has rested flip it out onto a sheet of parchment (Attempt 2)" width="50%" >}}
+{{< figure src="/images/recipes/Rye_PreBake.jpg" title="The apple of my Rye" caption="After the dough has rested flip it out onto a sheet of parchment (Attempt 2)" width="50%" >}}
 
 
 
@@ -82,7 +82,6 @@ Bake for 55 minutes. Open the oven door every 10 minutes or so (3-4 times during
 
 Let the bread sit for 1-4 days before cutting to allow the flavors to mature.
 
-{{< figure src="/images/recipes/Rye_PreBake.jpg" title="Rye Beauty" caption="After the dough has rested flip it out onto a sheet of parchment (Attempt 2)" width="50%" >}}
 
-{{< figure src="/images/recipes/RyeCrumb.jpg" title="Rye Beauty" caption="Let Rest and Enjoy" width="50%" >}}
+{{< figure src="/images/recipes/RyeCrumb.jpg" title="Rye Baby Rye" caption="Let Rest and Enjoy" width="50%" >}}
 

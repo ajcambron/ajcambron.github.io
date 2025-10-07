@@ -16,7 +16,7 @@
       <description>&lt;figure&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/recipes/SalsaJar.jpg&#34;
          alt=&#34;Smoky spicy goodness&#34; width=&#34;50%&#34;/&gt; &lt;figcaption&gt;
-            Optional Title Here&lt;p&gt;Smoky spicy goodness&lt;/p&gt;
+            The Final Product&lt;p&gt;Smoky spicy goodness&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 

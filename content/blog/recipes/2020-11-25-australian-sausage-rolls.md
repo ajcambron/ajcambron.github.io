@@ -2,8 +2,7 @@
 title: "Australian Sausage Rolls"
 date: 2020-11-25
 ---
-
-![](images/IMG_20201010_212919_568-767x1024.jpg)
+{{< figure src="/images/recipes/SausageRolls.jpg" title="Fresh out the oven" caption="Just like from the cantine" width="50%" >}}
 
 #### Ingredients
 
@@ -45,9 +44,7 @@ Worcestershire Sauce
 .5 Cup Breadcrumbs  
 Cooking Oil  
 Ketchup
-
 2 Eggs
-
 6 Sheets Puff Pastry
 
 ### Directions

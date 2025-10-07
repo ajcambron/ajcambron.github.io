@@ -6,7 +6,7 @@ categories:
   - "hobbies"
 ---
 
-![](images/IMG_0092-768x1024.jpg)
+{{< figure src="/images/recipes/LaheyBread.jpg" title="Loafin'" caption="Lahey, lahey lay..." width="50%" >}}
 
 Baking bread was more or less an accident. My father bakes bread, my friends bake bread, and for the last few years I've been trying to eat low carb. Somehow I thought I'd avoid the bug...
 

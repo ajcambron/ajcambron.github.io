@@ -10,7 +10,7 @@ tags:
 ---
 
 
-{{< figure src="/images/recipes/SalsaJar.jpg" title="Optional Title Here" caption="Smoky spicy goodness" width="50%" >}}
+{{< figure src="/images/recipes/SalsaJar.jpg" title="The Final Product" caption="Smoky spicy goodness" width="50%" >}}
 
 
 

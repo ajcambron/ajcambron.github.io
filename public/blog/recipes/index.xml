@@ -63,7 +63,13 @@
       <link>http://localhost:1313/blog/recipes/2021-02-20-jim-laheys-no-knead-bread-ala-cambron/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/recipes/2021-02-20-jim-laheys-no-knead-bread-ala-cambron/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IMG_0092-768x1024.jpg&#34;&gt;&lt;/p&gt;
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/recipes/LaheyBread.jpg&#34;
+         alt=&#34;Lahey, lahey lay&amp;hellip;&#34; width=&#34;50%&#34;/&gt; &lt;figcaption&gt;
+            Loafin&amp;#39;&lt;p&gt;Lahey, lahey lay&amp;hellip;&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;Baking bread was more or less an accident. My father bakes bread, my friends bake bread, and for the last few years I&amp;rsquo;ve been trying to eat low carb. Somehow I thought I&amp;rsquo;d avoid the bug&amp;hellip;&lt;/p&gt;
 &lt;p&gt;This recipe is probably the most popular white bread recipe on the internet, and there are already a LOT of variations on this recipe. My suggestions are limited, and already available on various comment threads. This recipe is mostly so that I don&amp;rsquo;t forget!&lt;/p&gt;</description>
     </item>
@@ -87,7 +93,13 @@
       <link>http://localhost:1313/blog/recipes/2020-11-25-australian-sausage-rolls/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/recipes/2020-11-25-australian-sausage-rolls/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/IMG_20201010_212919_568-767x1024.jpg&#34;&gt;&lt;/p&gt;
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/recipes/SausageRolls.jpg&#34;
+         alt=&#34;Just like from the cantine&#34; width=&#34;50%&#34;/&gt; &lt;figcaption&gt;
+            Fresh out the oven&lt;p&gt;Just like from the cantine&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;h4 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h4&gt;
 &lt;h5 id=&#34;meat&#34;&gt;Meat&lt;/h5&gt;
 &lt;p&gt;500g Ground Beef&lt;br&gt;
@@ -114,7 +126,9 @@ Bundle Fresh Parsley&lt;/p&gt;
 Worcestershire Sauce&lt;br&gt;
 .5 Cup Breadcrumbs&lt;br&gt;
 Cooking Oil&lt;br&gt;
-Ketchup&lt;/p&gt;</description>
+Ketchup
+2 Eggs
+6 Sheets Puff Pastry&lt;/p&gt;</description>
     </item>
     <item>
       <title>Punky German Beer Cheese (Obazda)</title>
@@ -124,14 +138,17 @@ Ketchup&lt;/p&gt;</description>
       <description>&lt;p&gt;One of my favorite parts of enjoying a German Biergarten in the summer is the onion covered cheese spread that goes on a crusty Bavarian pretzel.&lt;/p&gt;
 &lt;p&gt;Here is my recipe for Obazda, using readily available ingredients in the USA&lt;/p&gt;
 &lt;h4 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h4&gt;
-&lt;p&gt;250g Camembert (let ripen! the stinkier the better!)&lt;br&gt;
-20g (2 tbsp) Butter&lt;br&gt;
-100g (half a package) Philadelphia cream cheese (Frischkäse if available)&lt;br&gt;
-50g (half a small onion) finely chopped onion (cut in half to create rings)&lt;br&gt;
-1 tsp Caroway seed (or more to taste)&lt;br&gt;
-1/4 cup of beer. Preferably a German lager (Spaten, Hacker Pschorr, or Augustiner if you are so lucky)&lt;br&gt;
-Paprika (mixed in until you get the desireable orange color and flavor)&lt;br&gt;
-Salt and Pepper&lt;/p&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;250g Camembert (let ripen! the stinkier the better!)&lt;/li&gt;
+&lt;li&gt;20g (2 tbsp) Butter&lt;/li&gt;
+&lt;li&gt;100g (half a package) Philadelphia cream cheese (Frischkäse if available)&lt;/li&gt;
+&lt;li&gt;50g (half a small onion) finely chopped onion (cut in half to create rings)&lt;/li&gt;
+&lt;li&gt;1 tsp Caroway seed (or more to taste)&lt;/li&gt;
+&lt;li&gt;1/4 cup of beer. Preferably a German lager (Spaten, Hacker Pschorr, or Augustiner if you are so lucky)&lt;/li&gt;
+&lt;li&gt;Paprika (mixed in until you get the desireable orange color and flavor)&lt;/li&gt;
+&lt;li&gt;Salt and Pepper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Garnish with chives and onion, cut into rings.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quick and Easy Hot Tomatillo Salsa</title>
@@ -141,7 +158,7 @@ Salt and Pepper&lt;/p&gt;</description>
       <description>&lt;figure&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/recipes/SalsaJar.jpg&#34;
          alt=&#34;Smoky spicy goodness&#34; width=&#34;50%&#34;/&gt; &lt;figcaption&gt;
-            Optional Title Here&lt;p&gt;Smoky spicy goodness&lt;/p&gt;
+            The Final Product&lt;p&gt;Smoky spicy goodness&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
