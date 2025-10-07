@@ -1,5 +1,8 @@
 ---
 title: Andrew Cambron
+title: "About"
+author: Andrew Cambron
+type: Page
 ---
 
 Andrew Cambron is an educator and media creator living in Newark, DE. Currently he teaches Digital Communications at Newark High School.

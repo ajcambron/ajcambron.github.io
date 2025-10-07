@@ -9,23 +9,20 @@ tableOfContents = true
     {path = 'github.com/adityatelange/hugo-PaperMod'}
   ]
 
-# ----------------------------------------------------
-# 1. TAXONOMIES: Define 'category' and 'tag' for grouping content.
-# ----------------------------------------------------
 
 
 
 [params]
   env = "production"
   defaultTheme = "light" # or "dark"
-  disableThemeToggle = false
+  disableThemeToggle = true
 
-  ShowReadingTime = true
+  ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
-  ShowWordCount = true
+  ShowWordCount = false
   ShowRssButton = true
   
 
@@ -34,9 +31,8 @@ tableOfContents = true
   disableScrollBarStyle = true
 
 [params.socialIcons]
-  # Add your social links (e.g., GitHub, LinkedIn, etc.)
-  # Example: 
-  {name = "email", url = "mailto:fake@fakefakefake.com"}
+    name = "email"
+    url = "mailto:fake@fake.fake"
 
 # === Menu Links ===
 [menu]
@@ -50,7 +46,6 @@ tableOfContents = true
   url = "about/"
   weight = 20
 [[menu.main]]
-  identifier = "cv"
   name = "CV"
   url = "/cv/"
   weight = 30
@@ -64,8 +59,6 @@ tableOfContents = true
 	posts = '/posts/:year/:month/:day/:slug/'
 
 
-[params.footer]
-  footer = "&copy; [andrew](https://cambron.cc) 2020- {Year} -- All rights reserved."
 
 [markup]
   [markup.tableOfContents]

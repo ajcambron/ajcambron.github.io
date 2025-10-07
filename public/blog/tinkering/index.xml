@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on cambron.cc</title>
+    <link>http://localhost:1313/blog/tinkering/</link>
+    <description>Recent content in Projects on cambron.cc</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/blog/tinkering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Radio Stations</title>
+      <link>http://localhost:1313/blog/tinkering/radiostations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tinkering/radiostations/</guid>
+      <description>&lt;h2 id=&#34;favorite-internet-radio-stations&#34;&gt;Favorite Internet Radio Stations&lt;/h2&gt;
+&lt;p&gt;These are the station streams I use to serve content to my Moode.Audio build.&lt;/p&gt;
+&lt;h2 id=&#34;station-streams&#34;&gt;Station Streams&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://streams.kcrw.com/kcrw_mp3&#34;&gt;https://streams.kcrw.com/kcrw_mp3&lt;/a&gt; - KCRW&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wxpn.xpn.org/xpnmp3hi&#34;&gt;https://wxpn.xpn.org/xpnmp3hi&lt;/a&gt; - WXPN&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wxpn.xpn.org/xpn2mp3hi&#34;&gt;https://wxpn.xpn.org/xpn2mp3hi&lt;/a&gt; - XPN2&lt;/p&gt;
+&lt;p&gt;http://209.133.221.250:8096/stream - WFHB&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mediaserviceslive.akamaized.net/hls/live/2108541/abcextra/v0-221.m3u8&#34;&gt;https://mediaserviceslive.akamaized.net/hls/live/2108541/abcextra/v0-221.m3u8&lt;/a&gt; - ABC Kids&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mediaserviceslive.akamaized.net/hls/live/2109418/localnewcastle/v0-221.m3u8&#34;&gt;https://mediaserviceslive.akamaized.net/hls/live/2109418/localnewcastle/v0-221.m3u8&lt;/a&gt; - ABC Newcastle&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://streaming.radio.co/seac6e5991/listen&#34;&gt;https://streaming.radio.co/seac6e5991/listen&lt;/a&gt; - Inhaler Radio&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://freshgrass.streamguys1.com/folkalley-128mp3&#34;&gt;https://freshgrass.streamguys1.com/folkalley-128mp3&lt;/a&gt; - Folk Alley&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://whyy.streamguys1.com/whyy_tunein&#34;&gt;https://whyy.streamguys1.com/whyy_tunein&lt;/a&gt; - WHYY&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
