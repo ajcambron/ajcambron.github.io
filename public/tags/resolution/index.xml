@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Resolution on cambron.cc</title>
-    <link>http://localhost:1313/tags/resolution/</link>
+    <link>https://cambron.cc/tags/resolution/</link>
     <description>Recent content in Resolution on cambron.cc</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/resolution/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cambron.cc/tags/resolution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Social Media Dimensions</title>
-      <link>http://localhost:1313/blog/digcom/resources/design/social-media-dimensions/</link>
+      <link>https://cambron.cc/blog/digcom/resources/design/social-media-dimensions/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/digcom/resources/design/social-media-dimensions/</guid>
+      <guid>https://cambron.cc/blog/digcom/resources/design/social-media-dimensions/</guid>
       <description>&lt;h2 id=&#34;general-suggestions&#34;&gt;General Suggestions:&lt;/h2&gt;
 &lt;p&gt;Always design square photos to 1080x1080 and shrink them to the appropriate size.
 Phone sized pictures/videos (instagram story, tiktok video) are 1080x1920.&lt;/p&gt;

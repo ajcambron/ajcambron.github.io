@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Salsa on cambron.cc</title>
-    <link>http://localhost:1313/tags/salsa/</link>
+    <link>https://cambron.cc/tags/salsa/</link>
     <description>Recent content in Salsa on cambron.cc</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/salsa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cambron.cc/tags/salsa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quick and Easy Hot Tomatillo Salsa</title>
-      <link>http://localhost:1313/blog/recipes/2020-03-27-quick-and-easy-hot-tomatillo-salsa/</link>
+      <link>https://cambron.cc/blog/recipes/2020-03-27-quick-and-easy-hot-tomatillo-salsa/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/recipes/2020-03-27-quick-and-easy-hot-tomatillo-salsa/</guid>
+      <guid>https://cambron.cc/blog/recipes/2020-03-27-quick-and-easy-hot-tomatillo-salsa/</guid>
       <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/recipes/SalsaJar.jpg&#34;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://cambron.cc/images/recipes/SalsaJar.jpg&#34;
          alt=&#34;Smoky spicy goodness&#34; width=&#34;50%&#34;/&gt; &lt;figcaption&gt;
             Optional Title Here&lt;p&gt;Smoky spicy goodness&lt;/p&gt;
         &lt;/figcaption&gt;
