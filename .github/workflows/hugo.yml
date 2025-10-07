@@ -25,7 +25,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.121.1 # Use your desired Hugo version
+      HUGO_VERSION: 0.151.0 # <--- UPDATED TO THE LATEST VERSION
       HUGO_EXTENDED: true   # Set to true if you use SCSS/Sass
       
     steps:
@@ -42,8 +42,9 @@ jobs:
           extended: ${{ env.HUGO_EXTENDED }}
 
       - name: Build Hugo Site
+        # The baseURL is required for a correct GitHub Pages deployment
         run: hugo --minify --baseURL "https://ajcambron.github.io/"
-        
+      
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
