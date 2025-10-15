@@ -32,9 +32,9 @@ Having spoken to other CC educators about the topic, I feel that the best practi
 
 From a creator standpoint, it is important to note that this means that all works created may only share and adapt works licensed under:
 
-    CC-BY
-    CC-0*
-    Public Domain
+- CC-BY
+- CC-0*
+-  Public Domain
 
 *Additional licenses like those found on [Pixabay](https://pixabay.com/service/license/), that do not require attribution or limit the way in which the work can be distributed.
 

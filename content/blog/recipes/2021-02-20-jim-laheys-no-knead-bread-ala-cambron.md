@@ -41,4 +41,4 @@ Bake for 30 minutes with the lid on, and again for 30 minutes with the lid off .
   
 This loaf is great fresh, but will hold a few days in a bread box, tin, or airtight container.
 
-![](images/PXL_20210131_162354617.PORTRAIT-768x1024.jpg)
+{{< figure src="/images/recipes/CrumbShot.jpg" title="Crumb'" caption="Behold, I am doing a new thing" width="50%" >}}

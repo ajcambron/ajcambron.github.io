@@ -9,7 +9,7 @@ ShowBreadCrumbs: false
 
 # Hello, I'm Andrew Cambron.
 
-I am an Educator/Filmmaker based in Newark, DE. I have been working on the documentary *Driven* with my collaborator Dr. Georgina Ramsay.
+I am an **Educator/Filmmaker** based in Newark, DE. I have been working on the documentary *Driven* with my collaborator Dr. Georgina Ramsay.
 
 I currently teach at **Newark High School**, guiding students through a multi-disciplinary course focused on producing digital media.
 

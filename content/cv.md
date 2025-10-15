@@ -1,5 +1,5 @@
 ---
-title: CV
+title: ""
 layout: single
 ---
 
@@ -28,12 +28,8 @@ layout: single
 
 * Developed 3-Year Curriculum sequence modeling the use of American Institute of Graphic Arts graphic design standards and their application across Adobe Creative Cloud software. Instruct students in the creation of raster and vector graphics, digital photography, cinematography, html web-design and audio design.
 * Technology Student Association Advisor (2022-)
-  * Founded the NHS chapter of TSA, and have successfully taken students to compete at National competition every year as an advisor.
 * Yearbook and Newspaper Advisor (2024-)
-  * Created NewarkBuzz.com student newspaper website to support the growth of student life and advised the annual yearbook.
 * Theater Department Stagecraft (2021-)
-  * Instructed students in the safe operation of power tools and stage carpentry. Constructed the sets for 4 annual musical productions. 
-
 
 #### University of Delaware, Department of Anthropology (Visiting Scholar/Adjunct Professor, Aug. 2024 - ) 
 * Co-Principal Investigator on Ethnographic Film Project, Driven: Refugee Resettlement and the American Dream (collaboration with Associate Prof. Georgina Ramsay)
