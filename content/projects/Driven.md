@@ -4,10 +4,9 @@ date: 2024-01-15T10:00:00-04:00 # Date of publication
 draft: false
 tags: ["Documentary", "Filmmaking", "Ethnography"]
 cover:
-    image: "images/projects/drivenposter.jpg" # Path to your cover image
+    image: "/images/projects/drivenposter.jpg" # Path to your cover image
     alt: "Driven Poster."
     caption: "Refugee Resettlement and the American Dream"
-    relative: true
     hidden: false
 summary: "Ali is a refugee from Afghanistan who fled with his wife and young children in the days following the Taliban's rise to power in 2021."
 # Optional: Add links to external resources (PaperMod may not directly support this in list view without customization)
