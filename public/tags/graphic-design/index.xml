@@ -67,18 +67,22 @@
 &lt;p&gt;Always design square photos to 1080x1080 and shrink them to the appropriate size.
 Phone sized pictures/videos (instagram story, tiktok video) are 1080x1920.&lt;/p&gt;
 &lt;h3 id=&#34;social-media&#34;&gt;Social Media&lt;/h3&gt;
-&lt;p&gt;Instagram Post: 1080x1080
-Instagram Story: 1080x1920
-TikTok Profile Picture: 200x200
-TikTok Video: 1080x1920
-Facebook Banner: 820x312
-Facebook Profile Picture: 1080x1080
-Twitter Profile Picture: 400x400&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Instagram Post: 1080x1080&lt;/li&gt;
+&lt;li&gt;Instagram Story: 1080x1920&lt;/li&gt;
+&lt;li&gt;TikTok Profile Picture: 200x200&lt;/li&gt;
+&lt;li&gt;TikTok Video: 1080x1920&lt;/li&gt;
+&lt;li&gt;Facebook Banner: 820x312&lt;/li&gt;
+&lt;li&gt;Facebook Profile Picture: 1080x1080&lt;/li&gt;
+&lt;li&gt;Twitter Profile Picture: 400x400&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;gaming&#34;&gt;Gaming&lt;/h3&gt;
-&lt;p&gt;Discord Profile Picture: 120x120
-Xbox Gamerpic: 1080x1080
-Playstation Avatar: 440x440
-Steam Pic: 184x184&lt;/p&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;Discord Profile Picture: 120x120&lt;/li&gt;
+&lt;li&gt;Xbox Gamerpic: 1080x1080&lt;/li&gt;
+&lt;li&gt;Playstation Avatar: 440x440&lt;/li&gt;
+&lt;li&gt;Steam Pic: 184x184&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

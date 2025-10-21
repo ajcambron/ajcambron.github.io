@@ -133,18 +133,22 @@
 &lt;p&gt;Always design square photos to 1080x1080 and shrink them to the appropriate size.
 Phone sized pictures/videos (instagram story, tiktok video) are 1080x1920.&lt;/p&gt;
 &lt;h3 id=&#34;social-media&#34;&gt;Social Media&lt;/h3&gt;
-&lt;p&gt;Instagram Post: 1080x1080
-Instagram Story: 1080x1920
-TikTok Profile Picture: 200x200
-TikTok Video: 1080x1920
-Facebook Banner: 820x312
-Facebook Profile Picture: 1080x1080
-Twitter Profile Picture: 400x400&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Instagram Post: 1080x1080&lt;/li&gt;
+&lt;li&gt;Instagram Story: 1080x1920&lt;/li&gt;
+&lt;li&gt;TikTok Profile Picture: 200x200&lt;/li&gt;
+&lt;li&gt;TikTok Video: 1080x1920&lt;/li&gt;
+&lt;li&gt;Facebook Banner: 820x312&lt;/li&gt;
+&lt;li&gt;Facebook Profile Picture: 1080x1080&lt;/li&gt;
+&lt;li&gt;Twitter Profile Picture: 400x400&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;gaming&#34;&gt;Gaming&lt;/h3&gt;
-&lt;p&gt;Discord Profile Picture: 120x120
-Xbox Gamerpic: 1080x1080
-Playstation Avatar: 440x440
-Steam Pic: 184x184&lt;/p&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;Discord Profile Picture: 120x120&lt;/li&gt;
+&lt;li&gt;Xbox Gamerpic: 1080x1080&lt;/li&gt;
+&lt;li&gt;Playstation Avatar: 440x440&lt;/li&gt;
+&lt;li&gt;Steam Pic: 184x184&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Driven</title>
@@ -422,16 +426,7 @@ juice from 1/2 lime&lt;/p&gt;</description>
 &lt;p&gt;My great aunt Alice was often considered the &amp;ldquo;master of these recipes&amp;rdquo; and helped translate some of them from German at sometime. My hope is that I can accurately provide the recipes as Alice brought them to us, but also compare them to their German counterparts.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Andrew Cambron is an educator and media creator living in Newark, DE. Currently he teaches Digital Communications at Newark High School.&lt;/p&gt;
-&lt;p&gt;In his early career, Andrew worked in the film industry in Los Angeles, California cutting his teeth in any number of roles. During his time in Hollywood, he worked on a wide array of media including commercials, short films, music videos, commercial photography, VR projects and reality television.&lt;/p&gt;
-&lt;p&gt;After leaving Los Angeles, Andrew lived in Munich Germany where he studied German in an intensive language Sprachschule. Returning stateside, he took up the mantle of teaching German in his hometown in Batesville, Indiana. He established the first homestay exchange program at the school, as well as founding the BHS AV Club for young filmmakers to develop and screen their own films, and received grants to fund the starting of a Radio and Television program.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CV</title>
+      <title></title>
       <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cv/</guid>
@@ -457,21 +452,9 @@ juice from 1/2 lime&lt;/p&gt;</description>
 &lt;h4 id=&#34;newark-high-school---newark-de-digital-communications-teacher-aug-2021---&#34;&gt;Newark High School - Newark, DE (Digital Communications Teacher, Aug. 2021 - )&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Developed 3-Year Curriculum sequence modeling the use of American Institute of Graphic Arts graphic design standards and their application across Adobe Creative Cloud software. Instruct students in the creation of raster and vector graphics, digital photography, cinematography, html web-design and audio design.&lt;/li&gt;
-&lt;li&gt;Technology Student Association Advisor (2022-)
-&lt;ul&gt;
-&lt;li&gt;Founded the NHS chapter of TSA, and have successfully taken students to compete at National competition every year as an advisor.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Yearbook and Newspaper Advisor (2024-)
-&lt;ul&gt;
-&lt;li&gt;Created NewarkBuzz.com student newspaper website to support the growth of student life and advised the annual yearbook.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Theater Department Stagecraft (2021-)
-&lt;ul&gt;
-&lt;li&gt;Instructed students in the safe operation of power tools and stage carpentry. Constructed the sets for 4 annual musical productions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;Technology Student Association Advisor (2022-)&lt;/li&gt;
+&lt;li&gt;Yearbook and Newspaper Advisor (2024-)&lt;/li&gt;
+&lt;li&gt;Theater Department Stagecraft (2021-)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;university-of-delaware-department-of-anthropology-visiting-scholaradjunct-professor-aug-2024---&#34;&gt;University of Delaware, Department of Anthropology (Visiting Scholar/Adjunct Professor, Aug. 2024 - )&lt;/h4&gt;
 &lt;ul&gt;
@@ -529,6 +512,15 @@ juice from 1/2 lime&lt;/p&gt;</description>
 &lt;/ul&gt;</description>
     </item>
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Andrew Cambron is an educator and media creator living in Newark, DE. Currently he teaches Digital Communications at Newark High School.&lt;/p&gt;
+&lt;p&gt;In his early career, Andrew worked in the film industry in Los Angeles, California cutting his teeth in any number of roles. During his time in Hollywood, he worked on a wide array of media including commercials, short films, music videos, commercial photography, VR projects and reality television.&lt;/p&gt;
+&lt;p&gt;After leaving Los Angeles, Andrew lived in Munich Germany where he studied German in an intensive language Sprachschule. Returning stateside, he took up the mantle of teaching German in his hometown in Batesville, Indiana. He established the first homestay exchange program at the school, as well as founding the BHS AV Club for young filmmakers to develop and screen their own films, and received grants to fund the starting of a Radio and Television program.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Radio Stations</title>
       <link>http://localhost:1313/blog/tinkering/radiostations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -544,7 +536,7 @@ juice from 1/2 lime&lt;/p&gt;</description>
 &lt;p&gt;&lt;a href=&#34;https://mediaserviceslive.akamaized.net/hls/live/2109418/localnewcastle/v0-221.m3u8&#34;&gt;https://mediaserviceslive.akamaized.net/hls/live/2109418/localnewcastle/v0-221.m3u8&lt;/a&gt; - ABC Newcastle&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://streaming.radio.co/seac6e5991/listen&#34;&gt;https://streaming.radio.co/seac6e5991/listen&lt;/a&gt; - Inhaler Radio&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://freshgrass.streamguys1.com/folkalley-128mp3&#34;&gt;https://freshgrass.streamguys1.com/folkalley-128mp3&lt;/a&gt; - Folk Alley&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://whyy.streamguys1.com/whyy_tunein&#34;&gt;https://whyy.streamguys1.com/whyy_tunein&lt;/a&gt; - WHYY&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://free.rcast.net/231891&#34;&gt;https://free.rcast.net/231891&lt;/a&gt; - WHYY&lt;/p&gt;
 &lt;p&gt;More to come!&lt;/p&gt;</description>
     </item>
   </channel>

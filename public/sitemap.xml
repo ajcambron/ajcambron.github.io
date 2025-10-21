@@ -161,11 +161,11 @@
     <loc>http://localhost:1313/blog/recipes/2019-12-23-rezept-zimtsterne/</loc>
     <lastmod>2019-12-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/cv/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/anthropology/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cv/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/tinkering/</loc>
   </url><url>
