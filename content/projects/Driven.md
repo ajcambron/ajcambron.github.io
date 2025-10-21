@@ -4,7 +4,7 @@ date: 2024-01-15T10:00:00-04:00 # Date of publication
 draft: false
 tags: ["Documentary", "Filmmaking", "Ethnography"]
 cover:
-    image: "images/project-cover-1.jpg" # Path to your cover image
+    image: "images/projects/drivenposter.jpg" # Path to your cover image
     alt: "Driven Poster."
     caption: "Refugee Resettlement and the American Dream"
     relative: true
