@@ -2,9 +2,18 @@
 title: ""
 draft: false
 ShowBreadCrumbs: false
-# Remove or comment out any conflicting layouts/types
 # layout: "single" 
-# type: "page" 
+type: "homeInfo" 
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+
+  socialIcons: # optional
+    - name: "<platform>"
+      url: "<link>"
+    - name: "<platform 2>"
+      url: "<link2>"
 ---
 
 # Hello, I'm Andrew Cambron.

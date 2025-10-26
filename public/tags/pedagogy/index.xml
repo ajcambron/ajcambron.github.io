@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pedagogy on cambron.cc</title>
+    <link>http://localhost:1313/tags/pedagogy/</link>
+    <description>Recent content in Pedagogy on cambron.cc</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jan 2022 10:00:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pedagogy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Communications</title>
+      <link>http://localhost:1313/projects/digital-communications/</link>
+      <pubDate>Sat, 15 Jan 2022 10:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/projects/digital-communications/</guid>
+      <description>Digital Communications is a three-year long curriculum sequence for High School students interested in creative careers.</description>
+    </item>
+  </channel>
+</rss>

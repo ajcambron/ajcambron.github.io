@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Projects on cambron.cc</title>
+    <title>Tinkering on cambron.cc</title>
     <link>http://localhost:1313/blog/tinkering/</link>
-    <description>Recent content in Projects on cambron.cc</description>
+    <description>Recent content in Tinkering on cambron.cc</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/tinkering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raspberry Pi Radio</title>
+      <link>http://localhost:1313/blog/tinkering/radiostations-copy/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/tinkering/radiostations-copy/</guid>
+      <description>Building an Internet Radio to fill the void</description>
+    </item>
     <item>
       <title>Radio Stations</title>
       <link>http://localhost:1313/blog/tinkering/radiostations/</link>

@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/projects/driven/</guid>
       <description>Ali is a refugee from Afghanistan who fled with his wife and young children in the days following the Taliban&amp;rsquo;s rise to power in 2021.</description>
     </item>
+    <item>
+      <title>Digital Communications</title>
+      <link>http://localhost:1313/projects/digital-communications/</link>
+      <pubDate>Sat, 15 Jan 2022 10:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/projects/digital-communications/</guid>
+      <description>Digital Communications is a three-year long curriculum sequence for High School students interested in creative careers.</description>
+    </item>
   </channel>
 </rss>

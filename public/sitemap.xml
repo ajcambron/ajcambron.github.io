@@ -74,6 +74,18 @@
     <loc>http://localhost:1313/blog/recipes/2022-12-23-raclette/</loc>
     <lastmod>2022-12-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/cte/</loc>
+    <lastmod>2022-01-15T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/curriculum/</loc>
+    <lastmod>2022-01-15T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/digital-communications/</loc>
+    <lastmod>2022-01-15T10:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pedagogy/</loc>
+    <lastmod>2022-01-15T10:00:00-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/cooking/</loc>
     <lastmod>2021-02-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -167,8 +179,8 @@
   </url><url>
     <loc>http://localhost:1313/blog/anthropology/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/tinkering/</loc>
-  </url><url>
     <loc>http://localhost:1313/blog/tinkering/radiostations/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/tinkering/</loc>
   </url>
 </urlset>
