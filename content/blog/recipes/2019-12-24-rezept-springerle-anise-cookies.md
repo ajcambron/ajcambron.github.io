@@ -12,6 +12,8 @@ While obtaining Hartshorn used to be the most difficult part of making this reci
 
 For more reading about German Cookie chemistry, I found this newsletter from NDSU very interesting: [https://library.ndsu.edu/grhc/foods/articles/cookies\_chemistry.pdf](https://library.ndsu.edu/grhc/foods/articles/cookies_chemistry.pdf)
 
+Or about [Hartshorn on Atlas Obscura](https://www.atlasobscura.com/foods/hartshorn)
+
 | American Recipe (courtesy of my aunt Joan Saunders) | German Recipe (courtesy of Dr. Oetker) |
 | --- | --- |
 | 4 egg whites   4 egg yolks   1 lb (450g) powdered sugar   1 tsp Hartshorn (Ammonium Carbonate)   1 lb (450g) flour (Swans Pound Cake)   1/2 tsp anise oil.      Handkerchief | For the baking sheet:   grease   Anise, whole      Dough:   2 eggs (size M)   200 g (1 cup) powdered sugar   1 pack Vanilla sugar   275g (2.3 cups) wheat flour   1 pinch of baking powder |
