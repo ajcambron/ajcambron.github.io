@@ -63,7 +63,7 @@ My initial design concept was to apply what I had learned building Eurorack synt
 ## Documentation
 1. [Moode Software](https://moodeaudio.org/)
 2. [Custom Python Script to Drive Display](https://github.com/ajcambron/moode-lcd-display-gpio)
-3. [16x2 Faceplate on Thingiverse] -Coming Soon
-4. [Radio Enclosure on Thingiverse] -Coming Soon
+3. [16x2 Faceplate on Thingiverse](https://www.thingiverse.com/thing:7183249)
+4. [Radio Enclosure on Thingiverse](https://www.thingiverse.com/thing:7183255)
 
 
