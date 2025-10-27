@@ -25,15 +25,50 @@ tableOfContents = true
   ShowWordCount = false
   ShowRssButton = true
   
+[params.profileMode]
+    enabled = true
+    title = "Cambron.cc" # optional default will be site title
+    subtitle = "Make, Teach, Understand"
+    imageUrl = "/images/cambron/Cambronhead.png" # optional
+    imageTitle = "Portrait of Andrew" # optional
+    imageWidth = 120 # custom size
+    imageHeight = 120 # custom size
+
+    # 'buttons' is an array of tables in YAML, so it becomes an array of tables in TOML
+  [[params.profileMode.buttons]]
+      name = "Projects"
+      url = "/Projects"
+ 
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/blog"
+      
+	[[params.profileMode.buttons]]
+      name = "Weakfish"
+      url = "http://weak.fish"
+
+
+  # 'socialIcons' is also an array of tables
+[[params.socialIcons]] # Notice the double brackets for an array entry
+    name = "email"
+    url = "mailto:webcontact@weak.fish"
+    
+  [[params.socialIcons]]
+    name = "vimeo"
+    url = "https://vimeo.com/cambron"
+
+	[[params.socialIcons]]
+    name = "youtube"   
+    url = "https://www.youtube.com/@AndrewCambronIsReal"
+    
+    [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/ajcambron"
 
 [params.assets]
   disableHLJS = true # Disable Highlight.js if you use default Hugo Chroma
   disableScrollBarStyle = true
 
-# === Social Icons ===
-[[params.socialIcons]] # Notice the double brackets for an array entry
-    name = "email"
-    url = "mailto:fake@fake.fake"
 
 # === Menu Links ===
 [menu]

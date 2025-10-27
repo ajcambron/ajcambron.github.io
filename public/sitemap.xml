@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/digcom/resources/software/adobe-clones/</loc>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tinkering/internetradiov1/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tinkering/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/pedagogy/resources/software/adobe-clones/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/adobe-express/</loc>
-    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/canva/</loc>
@@ -23,25 +29,25 @@
     <loc>http://localhost:1313/categories/creative-commons/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/digcom/</loc>
-    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/graphic-design/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/digcom/resources/software/a-quick-note/</loc>
+    <loc>http://localhost:1313/blog/pedagogy/resources/software/a-quick-note/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/resolution/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/digcom/resources/design/social-media-dimensions/</loc>
+    <loc>http://localhost:1313/blog/pedagogy/resources/design/social-media-dimensions/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/software/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/pedagogy/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/documentary/</loc>
@@ -107,10 +113,7 @@
     <loc>http://localhost:1313/blog/recipes/2020-05-06-punky-german-beer-cheese-obazda/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/world-language/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/world-language/pedagogy/resources/</loc>
+    <loc>http://localhost:1313/blog/pedagogy/resources/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mexican/</loc>
@@ -138,9 +141,6 @@
     <lastmod>2020-03-01T10:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/pedagogy/2020-02-06-creative-commons-certificate-unit-2/</loc>
-    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/pedagogy/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/pedagogy/2020-01-20-creative-commons-certificate-unit-1/</loc>
@@ -177,10 +177,6 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/anthropology/</loc>
-  </url><url>
     <loc>http://localhost:1313/blog/tinkering/radiostations/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/tinkering/</loc>
   </url>
 </urlset>

@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Raspberry Pi Radio | cambron.cc</title>
+<meta name="keywords" content="">
+<meta name="description" content="Building an Internet Radio to fill the void">
+<meta name="author" content="Andrew Cambron">
+<link rel="canonical" href="http://localhost:1313/blog/tinkering/internetradiov1/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.7b858f161606565edd1dfec437d284c49e61de4ef8c19a661c8dda22f28e9993.css" integrity="sha256-e4WPFhYGVl7dHf7EN9KExJ5h3k74wZpmHI3aIvKOmZM=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/blog/tinkering/internetradiov1/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:url" content="http://localhost:1313/blog/tinkering/internetradiov1/">
+  <meta property="og:site_name" content="cambron.cc">
+  <meta property="og:title" content="Raspberry Pi Radio">
+  <meta property="og:description" content="Building an Internet Radio to fill the void">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2025-10-23T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-10-23T00:00:00+00:00">
+    <meta property="og:image" content="http://localhost:1313/images/projects/tinkeringcover.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://localhost:1313/images/projects/tinkeringcover.png">
+<meta name="twitter:title" content="Raspberry Pi Radio">
+<meta name="twitter:description" content="Building an Internet Radio to fill the void">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Blog",
+      "item": "http://localhost:1313/blog/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Tinkering",
+      "item": "http://localhost:1313/blog/tinkering/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  3 ,
+      "name": "Raspberry Pi Radio",
+      "item": "http://localhost:1313/blog/tinkering/internetradiov1/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Raspberry Pi Radio",
+  "name": "Raspberry Pi Radio",
+  "description": "Building an Internet Radio to fill the void",
+  "keywords": [
+    
+  ],
+  "articleBody": "The Problem Where I live in Delaware is often nicknamed, “Radio Free Newark” for it’s lack of terrestrial broadcasting. Too far from Philly to consistently pick up WHYY or WXPN: our household was feeling the pain.\nConstraints Cheap as possible. I had already picked up a Sangean HDR-19 for a pretty penny. I wanted to find something that could quickly and affordably add Internet Radio using the Sangean’s existing AUX in. Had to connect to the internet over WiFi A screen to display the station ID. A power button and a tactile way to change the station Process Knowing next to nothing about the task I set to embark on, I sought out software to help me with my goal. After trying out Volumio, I eventually settled on Moode for my project. I liked their (at least for now) commitment to open source principles. I quickly felt that trying to repurpose my old Raspberry Pi Model B was a fools errand, and upgraded to a Pi 3 with onboard WiFi and Bluetooth. (I may have come to regret that, but more later.) Beta Testing Running the software on a stock Raspberry Pi turned out ok. I could successfully play stations, and show my wife how to change stations. Biggest downside was needing to use a web app to control the radio. I wanted something tactile, and device-free. Dire need for a case due to Kitchen use. 3D Printing As this was the step I was least comfortable with, I started working out the design before I finished the custom scripts or electronics. Having never 3D printed anything, I gave myself a crash course in using Fusion 360 and an Ender 3 printer. After some basics tests, I set out on what would be the most challenging part of the process: designing a snap in plate for a 16x2 character LCD. My initial design concept was to apply what I had learned building Eurorack synths, and create a modular way to add one of these LCDs to a regular sheet of project panel (1.6mm thickness). While ultimately an unnecessary step for this particular project, I think it could be of use to other makers down the road. I ended up deciding to build a small enclosure that would fit on top of the Sangean, while mirroring some of the Mid-Century revival style choices. In the end, I opted to 3d print the 1.6mm panels (due to lack of access to a Dremel or drill press) My CAD modelAlways wanted to make one of these cool exploded views… so I learned how to do that too.\nElectronics In my initial plan for this project, I had envisioned using a potentiometer to dial in the station; attempting to mimic an analog car stereo. I breadboarded out some of these ideas, using repos I found on Github to try to reproduce their functionality. Ultimately, I would end up having to roll my own due to issues I was encountering with version mismatch. After successfully breadboarding the project (or at least breadboarding about 85% of what I had hoped to accomplish) I set to wire up the radio using a ProtoPi Hat if by some miracle this worked, I wanted to potentially ship these off to PCBWay to make them as a Christmas Gift. GPIOs, Vibe-Coding, Python experiments and more. While I have run through Linux tutorials and used Homebrew to run scripts I do not fully understand; I had never before tried to freewheel through any kind of coding/scripting task from scratch. I had hoped, naively, that I would be able to find and use existing repos to make my project work, without having to get my hands dirty. Unfortunately, my limited CompSci know-how meant that I would spend days stumbling over version mis-matches and kernal panics before I attempted to vibe-code my way to glory. Initially, I had intended to use Gemini to debug my code, (As I had done with some other scripting issues I had flare up in the past.) but by the end of the process, I was fully letting LLM Jesus take the wheel. I would finally end up with a version of Moode, running a custom script to display the station information. The finished productReady to stream my buddies on WFHB\nNext Steps I think at this point, I can say that V1 of the radio is done. I would like to revise the design to use the default GPIO button mapping for Moode. Custom interface design has not proved to be worth the time and energy required. I would like to take the code to someone who better understands Python. I suspect the code has a memory leak, as the radio becomes slower to interact, the longer it is left on. I would like to redesign the case to have a removable sled for the Raspberry Pi. During debug, it can be very frustrating to remove and reinsert the pi. A little more time on that would make me happy Move control buttons to the top of the radio, and leave the face panel dedicated for the display and power. Documentation Moode Software Custom Python Script to Drive Display 16x2 Faceplate on Thingiverse Radio Enclosure on Thingiverse ",
+  "wordCount" : "870",
+  "inLanguage": "en",
+  "image":"http://localhost:1313/images/projects/tinkeringcover.png","datePublished": "2025-10-23T00:00:00Z",
+  "dateModified": "2025-10-23T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Andrew Cambron"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/blog/tinkering/internetradiov1/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "cambron.cc",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="cambron.cc (Alt + H)">cambron.cc</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/cv/" title="CV">
+                    <span>CV</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/blog/" title="Blog">
+                    <span>Blog</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/blog/">Blog</a>&nbsp;»&nbsp;<a href="http://localhost:1313/blog/tinkering/">Tinkering</a></div>
+    <h1 class="post-title entry-hint-parent">
+      Raspberry Pi Radio
+    </h1>
+    <div class="post-meta"><span title='2025-10-23 00:00:00 +0000 UTC'>October 23, 2025</span>&nbsp;·&nbsp;<span>Andrew Cambron</span>
+
+</div>
+  </header> 
+<figure class="entry-cover">
+        <img loading="eager" src="http://localhost:1313/images/projects/tinkeringcover.png" alt="Tinkering">
+        <figcaption>My Custom Moode Radio</figcaption>
+</figure>
+  <div class="post-content"><h2 id="the-problem">The Problem<a hidden class="anchor" aria-hidden="true" href="#the-problem">#</a></h2>
+<p>Where I live in Delaware is often nicknamed, &ldquo;Radio Free Newark&rdquo; for it&rsquo;s lack of terrestrial broadcasting. Too far from Philly to consistently pick up WHYY or WXPN: our household was feeling the pain.</p>
+<h3 id="constraints">Constraints<a hidden class="anchor" aria-hidden="true" href="#constraints">#</a></h3>
+<ol>
+<li>Cheap as possible. I had already picked up a <a href="https://www.amazon.com/dp/B0CQB39KM1/?smid=A3SBDOAENTRT1F&amp;tag=thewire06-20&amp;th=1">Sangean HDR-19</a> for a pretty penny.</li>
+<li>I wanted to find something that could quickly and affordably add Internet Radio using the Sangean&rsquo;s existing AUX in.</li>
+<li>Had to connect to the internet over WiFi</li>
+<li>A screen to display the station ID.</li>
+<li>A power button and a tactile way to change the station</li>
+</ol>
+<h2 id="process">Process<a hidden class="anchor" aria-hidden="true" href="#process">#</a></h2>
+<ul>
+<li>Knowing next to nothing about the task I set to embark on, I sought out software to help me with my goal.</li>
+<li>After trying out Volumio, I eventually settled on Moode for my project. I liked their (at least for now) commitment to open source principles.</li>
+<li>I quickly felt that trying to repurpose my old Raspberry Pi Model B was a fools errand, and upgraded to a Pi 3 with onboard WiFi and Bluetooth. (I may have come to regret that, but more later.)</li>
+</ul>
+<h3 id="beta-testing">Beta Testing<a hidden class="anchor" aria-hidden="true" href="#beta-testing">#</a></h3>
+<ol>
+<li>Running the software on a stock Raspberry Pi turned out ok. I could successfully play stations, and show my wife how to change stations.</li>
+<li>Biggest downside was needing to use a web app to control the radio. I wanted something tactile, and device-free.</li>
+<li>Dire need for a case due to Kitchen use.</li>
+</ol>
+<h3 id="3d-printing">3D Printing<a hidden class="anchor" aria-hidden="true" href="#3d-printing">#</a></h3>
+<ol>
+<li>As this was the step I was least comfortable with, I started working out the design before I finished the custom scripts or electronics.</li>
+<li>Having never 3D printed anything, I gave myself a crash course in using Fusion 360 and an Ender 3 printer.</li>
+<li>After some basics tests, I set out on what would be the most challenging part of the process: designing a snap in plate for a <a href="https://www.adafruit.com/product/181?srsltid=AfmBOorQGaDkA9XH-GFX-4y5j-6KY1b1wJDZVoCpUn7ct2_PiIU5XjiS">16x2 character LCD</a>.
+My initial design concept was to apply what I had learned building Eurorack synths, and create a modular way to add one of these LCDs to a regular sheet of project panel (1.6mm thickness). While ultimately an unnecessary step for this particular project, I think it could be of use to other makers down the road.</li>
+<li>I ended up deciding to build a small enclosure that would fit on top of the Sangean, while mirroring some of the Mid-Century revival style choices.</li>
+<li>In the end, I opted to 3d print the 1.6mm panels (due to lack of access to a Dremel or drill press)</li>
+</ol>
+<figure>
+    <img loading="lazy" src="/images/tinkering/isometricdrawing.png"
+         alt="Always wanted to make one of these cool exploded views&hellip; so I learned how to do that too." width="100%"/> <figcaption>
+            My CAD model<p>Always wanted to make one of these cool exploded views&hellip; so I learned how to do that too.</p>
+        </figcaption>
+</figure>
+
+<h3 id="electronics">Electronics<a hidden class="anchor" aria-hidden="true" href="#electronics">#</a></h3>
+<ol>
+<li>In my initial plan for this project, I had envisioned using a potentiometer to dial in the station; attempting to mimic an analog car stereo.</li>
+<li>I breadboarded out some of these ideas, using repos I found on Github to try to reproduce their functionality. Ultimately, I would end up having to roll my own due to issues I was encountering with version mismatch.</li>
+<li>After successfully breadboarding the project (or at least breadboarding about 85% of what I had hoped to accomplish) I set to wire up the radio using a <a href="https://www.adafruit.com/product/2310?srsltid=AfmBOopk3Hw4p4njpvL5NEcT4WfUobF4QNOaEhK0hfrEW1BVKBm3WJaa">ProtoPi Hat</a> if by some miracle this worked, I wanted to potentially ship these off to PCBWay to make them as a Christmas Gift.</li>
+</ol>
+<h3 id="gpios-vibe-coding-python-experiments-and-more">GPIOs, Vibe-Coding, Python experiments and more.<a hidden class="anchor" aria-hidden="true" href="#gpios-vibe-coding-python-experiments-and-more">#</a></h3>
+<ol>
+<li>While I have run through Linux tutorials and used Homebrew to run scripts I do not fully understand; I had never before tried to freewheel through any kind of coding/scripting task from scratch.</li>
+<li>I had hoped, naively, that I would be able to find and use existing repos to make my project work, without having to get my hands dirty.</li>
+<li>Unfortunately, my limited CompSci know-how meant that I would spend days stumbling over version mis-matches and kernal panics before I attempted to vibe-code my way to glory.</li>
+<li>Initially, I had intended to use Gemini to debug my code, (As I had done with some other scripting issues I had flare up in the past.) but by the end of the process, I was fully letting LLM Jesus take the wheel.</li>
+<li>I would finally end up with a version of Moode, running a custom script to display the station information.
+<figure>
+    <img loading="lazy" src="/images/tinkering/radio.png"
+         alt="Ready to stream my buddies on WFHB" width="75%"/> <figcaption>
+            The finished product<p>Ready to stream my buddies on WFHB</p>
+        </figcaption>
+</figure>
+</li>
+</ol>
+<h2 id="next-steps">Next Steps<a hidden class="anchor" aria-hidden="true" href="#next-steps">#</a></h2>
+<ol>
+<li>I think at this point, I can say that V1 of the radio is done.</li>
+<li>I would like to revise the design to use the default GPIO button mapping for Moode. Custom interface design has not proved to be worth the time and energy required.</li>
+<li>I would like to take the code to someone who better understands Python. I suspect the code has a memory leak, as the radio becomes slower to interact, the longer it is left on.</li>
+<li>I would like to redesign the case to have a removable sled for the Raspberry Pi. During debug, it can be very frustrating to remove and reinsert the pi. A little more time on that would make me happy</li>
+<li>Move control buttons to the top of the radio, and leave the face panel dedicated for the display and power.</li>
+</ol>
+<h2 id="documentation">Documentation<a hidden class="anchor" aria-hidden="true" href="#documentation">#</a></h2>
+<ol>
+<li><a href="https://moodeaudio.org/">Moode Software</a></li>
+<li><a href="https://github.com/ajcambron/moode-lcd-display-gpio">Custom Python Script to Drive Display</a></li>
+<li><a href="https://www.thingiverse.com/thing:7183249">16x2 Faceplate on Thingiverse</a></li>
+<li><a href="https://www.thingiverse.com/thing:7183255">Radio Enclosure on Thingiverse</a></li>
+</ol>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+<nav class="paginav">
+  <a class="next" href="http://localhost:1313/blog/pedagogy/resources/software/adobe-clones/">
+    <span class="title">Next »</span>
+    <br>
+    <span>Adobe Alternatives</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="http://localhost:1313/">cambron.cc</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>
